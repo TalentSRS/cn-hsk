@@ -1,11 +1,38 @@
 parents:
  - https://github.com/TalentSRS/cn-comprehensive
-title: HSK - Levels 1 through 6
+title: HSK - All Levels (1 through 6)
 tags:
  - HSK
  - Exam
  - Comprehensive
-description: HSK training material ordered by level and word frequency.
+description: |
+
+  The Hànyǔ Shuǐpíng Kǎoshì (HSK), (Chinese: 汉语水平考试), translated as Chinese
+  Proficiency Test,[1] or Chinese Standard Exam, is China's only standardized
+  test of Standard Chinese language proficiency for non-native speakers such as
+  foreign students and overseas Chinese.
+
+  Development began in 1984 at Beijing Language and Culture University and in
+  1992 the HSK was officially made a national standardized test. By 2005, over
+  120 countries had participated as regular host sites and the tests had been
+  taken around 100 million times (including by domestic ethnic minority
+  candidates).[2] The general count outside of China is stated as being around
+  1.9 million.[3] In 2011 Beijing International Chinese College became the first
+  HSK testing center to conduct online HSK test.
+
+  The HSK test approximates the English TOEFL, and an HSK certificate is valid
+  without any limitation in China. The test aims to be a certificate of language
+  proficiency for higher educational and professional purposes.
+
+  Each year HSK certificates are issued to those who meet required scores.
+  Unlike the Test of Chinese as a Foreign Language offered in Taiwan and
+  administered in traditional Chinese characters, the HSK is administered in
+  Simplified Chinese. In addition test takers with outstanding results can win a
+  scholarship for short-term language study in China.
+
+  More information available at:
+  <http://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi>
+
 units:
  - title: Level 1
    content: level1.txt
