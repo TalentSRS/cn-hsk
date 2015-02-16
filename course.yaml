@@ -1,0 +1,27 @@
+parents:
+ - https://github.com/TalentSRS/cn-comprehensive
+title: HSK - Levels 1 through 6
+tags:
+ - HSK
+ - Exam
+ - Comprehensive
+description: HSK training material ordered by level and word frequency.
+units:
+ - title: Level 1
+   content: level1.txt
+   stencils: HSK Official With Definitions 2012 L1 freqorder.txt.yaml
+ - title: Level 2
+   content: level2.txt
+   stencils: HSK Official With Definitions 2012 L2 freqorder.txt.yaml
+ - title: Level 3
+   content: level3.txt
+   stencils: HSK Official With Definitions 2012 L3 freqorder.txt.yaml
+ - title: Level 4
+   content: level4.txt
+   stencils: HSK Official With Definitions 2012 L4 freqorder.txt.yaml
+ - title: Level 5
+   content: level5.txt
+   stencils: HSK Official With Definitions 2012 L5 freqorder.txt.yaml
+ - title: Level 6
+   content: level6.txt
+   stencils: HSK Official With Definitions 2012 L6 freqorder.txt.yaml

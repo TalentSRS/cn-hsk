@@ -1,0 +1,1389 @@
+- chinese: 奇怪。
+  english:
+  - That's weird.
+  type: chinese
+  comment: ! 'Covers: 奇怪. Cost: 0.0'
+- chinese: 一边X，一边Y。
+  english:
+  - Doing X, and also Y at the same time.
+  type: chinese
+  comment: ! 'Covers: 一边. Cost: 0.0'
+- chinese: 不但…而且…
+  english:
+  - Not only... but also...
+  type: chinese
+  comment: ! 'Covers: 而且. Cost: 0.0'
+- chinese: 先X，然后Y。
+  english:
+  - First X, then Y.
+  type: chinese
+  comment: ! 'Covers: 然后. Cost: 0.0'
+- chinese: 后来怎么样？
+  english:
+  - What happened afterwards?
+  type: chinese
+  comment: ! 'Covers: 后来. Cost: 0.0'
+- chinese: 真干净！
+  english:
+  - So clean!
+  type: chinese
+  comment: ! 'Covers: 干净. Cost: 0.0'
+- chinese: 你真坏。
+  english:
+  - You're terrible.
+  - You're so bad.
+  type: chinese
+  comment: ! 'Covers: 坏. Cost: 0.0'
+- chinese: 你不了解。
+  english:
+  - You don't understand.
+  type: chinese
+  comment: ! 'Covers: 了解. Cost: 0.0'
+- chinese: 中国欢迎你！
+  english:
+  - Welcome to China!
+  type: chinese
+  comment: ! 'Covers: 欢迎. Cost: 0.0'
+- chinese: 你同意吗?
+  english:
+  - Do you agree?
+  type: chinese
+  comment: ! 'Covers: 同意. Cost: 0.0'
+- chinese: 你发烧了吗？
+  english:
+  - Do you have a fever?
+  type: chinese
+  comment: ! 'Covers: 发烧. Cost: 0.0'
+- chinese: 你明白了吗?
+  english:
+  - Do you understand?
+  type: chinese
+  comment: ! 'Covers: 明白. Cost: 0.0'
+- chinese: 刷牙了吗?
+  english:
+  - Did you brush your teeth?
+  type: chinese
+  comment: ! 'Covers: 刷牙. Cost: 0.0'
+- chinese: 你是熊猫。
+  english:
+  - You are a panda.
+  type: chinese
+  comment: ! 'Covers: 熊猫. Cost: 0.0'
+- chinese: 他是经理吗？
+  english:
+  - Is he the manager?
+  type: chinese
+  comment: ! 'Covers: 经理. Cost: 0.0'
+- chinese: 他不饿。
+  english:
+  - He isn't hungry.
+  type: chinese
+  comment: ! 'Covers: 饿. Cost: 0.0'
+- chinese: 为什么他生气？
+  english:
+  - Why is he angry?
+  type: chinese
+  comment: ! 'Covers: 生气. Cost: 0.0'
+- chinese: 你为什么哭了？
+  english:
+  - For what reason did you cry?
+  type: chinese
+  comment: ! 'Covers: 哭. Cost: 0.0'
+- chinese: 他一定是校长。
+  english:
+  - He must be the principal.
+  type: chinese
+  comment: ! 'Covers: 校长. Cost: 0.0'
+- chinese: 他休息了一会儿。
+  english:
+  - He rested for a while.
+  type: chinese
+  comment: ! 'Covers: 一会儿. Cost: 0.0'
+- chinese: 你决定了没有？
+  english:
+  - Have you arrived at a decision yet?
+  type: chinese
+  comment: ! 'Covers: 决定. Cost: 0.0'
+- chinese: 你必须注意他。
+  english:
+  - You must pay attention to him.
+  type: chinese
+  comment: ! 'Covers: 注意. Cost: 0.0'
+- chinese: 你必须去会议。
+  english:
+  - You have to go to the meeting.
+  type: chinese
+  comment: ! 'Covers: 必须. Cost: 0.0'
+- chinese: 你必须认真学习。
+  english:
+  - You must study hard.
+  type: chinese
+  comment: ! 'Covers: 认真. Cost: 0.0'
+- chinese: 你有地图吗？
+  english:
+  - Do you have a map?
+  type: chinese
+  comment: ! 'Covers: 地图. Cost: 0.0'
+- chinese: 你有照相机吗？
+  english:
+  - Do you have a camera?
+  type: chinese
+  comment: ! 'Covers: 照相机. Cost: 0.0'
+- chinese: 他照顾孩子。
+  english:
+  - He looked after the baby.
+  type: chinese
+  comment: ! 'Covers: 照顾. Cost: 0.0'
+- chinese: 他不需要工作。
+  english:
+  - He doesn't need to work.
+  type: chinese
+  comment: ! 'Covers: 需要. Cost: 0.0'
+- chinese: 你不需要着急。
+  english:
+  - You didn't need to hurry.
+  type: chinese
+  comment: ! 'Covers: 着急. Cost: 0.0'
+- chinese: 作业做了吗?
+  english:
+  - Did you do your homework?
+  type: chinese
+  comment: ! 'Covers: 作业. Cost: 0.0'
+- chinese: 他关了门。
+  english:
+  - He closed the door.
+  - He shut the door.
+  type: chinese
+  comment: ! 'Covers: 关. Cost: 0.0'
+- chinese: 他太胖了。
+  english:
+  - He's overweight.
+  type: chinese
+  comment: ! 'Covers: 胖. Cost: 0.0'
+- chinese: 他开始害怕了。
+  english:
+  - He began to feel afraid.
+  type: chinese
+  comment: ! 'Covers: 害怕. Cost: 0.0'
+- chinese: 你必须马上开始。
+  english:
+  - You'll have to start at once.
+  type: chinese
+  comment: ! 'Covers: 马上. Cost: 0.0'
+- chinese: 他很年轻。
+  english:
+  - He is very young.
+  type: chinese
+  comment: ! 'Covers: 年轻. Cost: 0.0'
+- chinese: 他哥哥很有名。
+  english:
+  - His older brother is very famous.
+  type: chinese
+  comment: ! 'Covers: 有名. Cost: 0.0'
+- chinese: 他是你哥哥还是你弟弟？
+  english:
+  - Is he your older or younger brother?
+  type: chinese
+  comment: ! 'Covers: 还是. Cost: 0.0'
+- chinese: 他很容易感冒。
+  english:
+  - He catches colds very easily.
+  - He catches colds easily.
+  type: chinese
+  comment: ! 'Covers: 感冒. Cost: 0.0'
+- chinese: 中文不难，很容易！
+  english:
+  - Chinese is not difficult, it's very easy!
+  type: chinese
+  comment: ! 'Covers: 难. Cost: 0.0'
+- chinese: 你去哪站？
+  english:
+  - Which station are you going to?
+  type: chinese
+  comment: ! 'Covers: 站. Cost: 0.0'
+- chinese: 你可以关灯吗？
+  english:
+  - Could you turn off the lights?
+  type: chinese
+  comment: ! 'Covers: 灯. Cost: 0.0'
+- chinese: Tom，明天可以回答你。
+  english:
+  - Tom can give you an answer tomorrow.
+  type: chinese
+  comment: ! 'Covers: 回答. Cost: 0.0'
+- chinese: 你可以带我去吗？
+  english:
+  - Will you take me there?
+  type: chinese
+  comment: ! 'Covers: 带. Cost: 0.0'
+- chinese: 我可以去洗手间吗？
+  english:
+  - May I go to the bathroom?
+  - May I go to the restroom?
+  type: chinese
+  comment: ! 'Covers: 洗手间. Cost: 0.0'
+- chinese: 我太矮了。
+  english:
+  - I am too short.
+  type: chinese
+  comment: ! 'Covers: 矮. Cost: 0.0'
+- chinese: “相信我。”他说。
+  english:
+  - ! '"Trust me," he said.'
+  type: chinese
+  comment: ! 'Covers: 相信. Cost: 0.0'
+- chinese: 他突然看见了我。
+  english:
+  - Suddenly he saw me.
+  type: chinese
+  comment: ! 'Covers: 突然. Cost: 0.0'
+- chinese: 他要求我帮助他。
+  english:
+  - He asked me to help him.
+  type: chinese
+  comment: ! 'Covers: 要求. Cost: 0.0'
+- chinese: 你希望我帮忙吗？
+  english:
+  - Do you wish me to help?
+  type: chinese
+  comment: ! 'Covers: 帮忙. Cost: 0.0'
+- chinese: 我不相信你已经遇到了他。
+  english:
+  - I don't believe you've met him.
+  type: chinese
+  comment: ! 'Covers: 遇到. Cost: 0.0'
+- chinese: 他已经教了20年。
+  english:
+  - He has been teaching for 20 years.
+  type: chinese
+  comment: ! 'Covers: 教. Cost: 0.0'
+- chinese: 你听到新闻了吗？
+  english:
+  - Did you hear the news?
+  type: chinese
+  comment: ! 'Covers: 新闻. Cost: 5.010773162298943e-3'
+- chinese: 我很满意我的工作。
+  english:
+  - I'm satisfied with my work.
+  type: chinese
+  comment: ! 'Covers: 满意. Cost: 0.0'
+- chinese: 你完成你的工作了吗?
+  english:
+  - Are you finished with your work?
+  type: chinese
+  comment: ! 'Covers: 完成. Cost: 0.0'
+- chinese: 我照顾我的爷爷。
+  english:
+  - I take care of my grandfather.
+  type: chinese
+  comment: ! 'Covers: 爷爷. Cost: 0.0'
+- chinese: 他的鼻子很长。
+  english:
+  - He has a long nose.
+  type: chinese
+  comment: ! 'Covers: 鼻子. Cost: 0.0'
+- chinese: 你会习惯的。
+  english:
+  - You'll get used to it.
+  type: chinese
+  comment: ! 'Covers: 习惯. Cost: 0.0'
+- chinese: 他应该来的。
+  english:
+  - He was supposed to come.
+  type: chinese
+  comment: ! 'Covers: 应该. Cost: 0.0'
+- chinese: 他是对我感兴趣的。
+  english:
+  - He was interested in me.
+  type: chinese
+  comment: ! 'Covers: 感兴趣. Cost: 0.0'
+- chinese: 他的学习成绩很好。
+  english:
+  - He has a good school record.
+  type: chinese
+  comment: ! 'Covers: 成绩. Cost: 0.0'
+- chinese: 他的故事可能是真的吗?
+  english:
+  - Can his story be true?
+  type: chinese
+  comment: ! 'Covers: 故事. Cost: 0.0'
+- chinese: 你认为你能来吗？
+  english:
+  - Do you think you can come?
+  type: chinese
+  comment: ! 'Covers: 认为. Cost: 0.0'
+- chinese: 你可以选择你喜欢的。
+  english:
+  - You may choose what you like.
+  type: chinese
+  comment: ! 'Covers: 选择. Cost: 0.0'
+- chinese: 我确实喜欢我的同事。
+  english:
+  - I really like my coworkers.
+  type: chinese
+  comment: ! 'Covers: 同事. Cost: 4.396570674873599e-3'
+- chinese: 他很喜欢一边洗澡一边唱歌。
+  english:
+  - He likes to sing in the bathtub.
+  type: chinese
+  comment: ! 'Covers: 洗澡. Cost: 0.0'
+- chinese: 我没有朋友可以聊天。
+  english:
+  - I have no friend to talk with.
+  type: chinese
+  comment: ! 'Covers: 聊天. Cost: 0.0'
+- chinese: 最坏的已经过去了。
+  english:
+  - The worst is over.
+  type: chinese
+  comment: ! 'Covers: 过去. Cost: 0.0'
+- chinese: 你最喜欢的饮料是什么？
+  english:
+  - What's your favorite beverage?
+  type: chinese
+  comment: ! 'Covers: 饮料. Cost: 0.0'
+- chinese: 周末你一般做什么？
+  english:
+  - What do you usually do at weekends?
+  type: chinese
+  comment: ! 'Covers: 一般. Cost: 0.0'
+- chinese: 洗你的脚。
+  english:
+  - Wash your feet.
+  type: chinese
+  comment: ! 'Covers: 脚. Cost: 0.0'
+- chinese: Mike非常喜欢动物。
+  english:
+  - Mike really likes animals.
+  type: chinese
+  comment: ! 'Covers: 动物. Cost: 0.0'
+- chinese: 我喜欢动物，除了猫。
+  english:
+  - Apart from cats, I like animals.
+  type: chinese
+  comment: ! 'Covers: 除了. Cost: 0.0'
+- chinese: 不，谢谢，我饱了。
+  english:
+  - No more, thank you. I'm full.
+  type: chinese
+  comment: ! 'Covers: 饱. Cost: 0.0'
+- chinese: 他画的画。
+  english:
+  - The painting that he painted.
+  type: chinese
+  comment: ! 'Covers: 画. Cost: 0.0'
+- chinese: 他骑自行车去的。
+  english:
+  - He went by bicycle.
+  type: chinese
+  comment: ! 'Covers: 骑. Cost: 0.0'
+- chinese: 我不喜欢在银行工作.
+  english:
+  - I don't like working at the bank.
+  type: chinese
+  comment: ! 'Covers: 银行. Cost: 0.0'
+- chinese: 你最近在忙什么？
+  english:
+  - What have you been busy doing lately?
+  type: chinese
+  comment: ! 'Covers: 最近. Cost: 0.0'
+- chinese: 最近他经常去爬山。
+  english:
+  - Recently he has often gone climbing.
+  type: chinese
+  comment: ! 'Covers: 爬山. Cost: 0.0'
+- chinese: 他在图书馆里。
+  english:
+  - He is in the library.
+  type: chinese
+  comment: ! 'Covers: 图书馆. Cost: 0.0'
+- chinese: 他在打扫他的房间。
+  english:
+  - He was cleaning his room.
+  type: chinese
+  comment: ! 'Covers: 打扫. Cost: 0.0'
+- chinese: 他在看什么节目？
+  english:
+  - What TV program is he watching?
+  type: chinese
+  comment: ! 'Covers: 节目. Cost: 0.0'
+- chinese: 他总是在笑。
+  english:
+  - He's always smiling.
+  type: chinese
+  comment: ! 'Covers: 总是. Cost: 0.0'
+- chinese: 他最近好像瘦了。
+  english:
+  - It seems he's gotten thinner lately.
+  type: chinese
+  comment: ! 'Covers: 瘦. Cost: 2.9915041282756972e-3'
+- chinese: out？ 你经常锻炼身体吗？
+  english:
+  - Do you often work
+  type: chinese
+  comment: ! 'Covers: 经常. Cost: 0.0'
+- chinese: 他在他班里学习最努力。
+  english:
+  - He works hardest in his class.
+  type: chinese
+  comment: ! 'Covers: 班. Cost: 0.0'
+- chinese: 今天我也会努力的。
+  english:
+  - I'll try my best today, too.
+  type: chinese
+  comment: ! 'Covers: 努力. Cost: 0.0'
+- chinese: 今天天气很差。
+  english:
+  - It is terrible weather today.
+  type: chinese
+  comment: ! 'Covers: 差. Cost: 0.0'
+- chinese: 今天他又迟到了。
+  english:
+  - He is late again today.
+  type: chinese
+  comment: ! 'Covers: 又. Cost: 0.0'
+- chinese: 为了你，我上班迟到了。
+  english:
+  - I’m late for work because of you.
+  type: chinese
+  comment: ! 'Covers: 为了. Cost: 0.0'
+- chinese: ! 'A: 你为什么 不 上班？
+
+    B: 因为今天是周末，所以我不上班。
+
+'
+  english:
+  - ! 'A: Why haven’t you left for work?
+
+    B: Because today is the weekend, therefore I’m not working.
+
+'
+  type: chinese
+  comment: ! 'Covers: 周末. Cost: 0.0'
+- chinese: 今天早上我去了公园。
+  english:
+  - I went to a park this morning.
+  type: chinese
+  comment: ! 'Covers: 公园. Cost: 0.0'
+- chinese: 他昨天来我的办公室。
+  english:
+  - He came to my office yesterday.
+  type: chinese
+  comment: ! 'Covers: 办公室. Cost: 0.0'
+- chinese: 如果天气好，当然可以。
+  english:
+  - Certainly, if the weather is fine.
+  type: chinese
+  comment: ! 'Covers: 当然. Cost: 0.0'
+- chinese: 我一般坐地铁上班。
+  english:
+  - I usually go to work by metro.
+  type: chinese
+  comment: ! 'Covers: 地铁. Cost: 0.0'
+- chinese: 你坐在Meg和我的中间。
+  english:
+  - You are sitting between Meg and me.
+  type: chinese
+  comment: ! 'Covers: 中间. Cost: 0.0'
+- chinese: Tom想和Marie结婚。
+  english:
+  - Tom wants to marry Mary.
+  type: chinese
+  comment: ! 'Covers: 结婚. Cost: 0.0'
+- chinese: “她喜欢音乐。”“我也是。”
+  english:
+  - ! '"She likes music." "So do I."'
+  type: chinese
+  comment: ! 'Covers: 音乐. Cost: 0.0'
+- chinese: 我不喜欢她的脸。
+  english:
+  - I'm not fond of her face.
+  - I don't like her face.
+  type: chinese
+  comment: ! 'Covers: 脸. Cost: 0.0'
+- chinese: 他一边上网，一边听音乐。
+  english:
+  - He is web surfing, and also listening to music.
+  type: chinese
+  comment: ! 'Covers: 上网. Cost: 0.0'
+- chinese: 她是出租车司机。
+  english:
+  - She is a taxi driver.
+  type: chinese
+  comment: ! 'Covers: 司机. Cost: 0.0'
+- chinese: 我昨天经过她家。
+  english:
+  - I passed by her house yesterday.
+  type: chinese
+  comment: ! 'Covers: 经过. Cost: 0.0'
+- chinese: 我去我叔叔家。
+  english:
+  - I am going to my uncle's.
+  type: chinese
+  comment: ! 'Covers: 叔叔. Cost: 0.0'
+- chinese: Ken中午以前会在家。
+  english:
+  - Ken will be at home until noon.
+  type: chinese
+  comment: ! 'Covers: 以前. Cost: 0.0'
+- chinese: ! '"好的, 好的" 医生说。"我一定检查她。"'
+  english:
+  - ! '"Okay, okay," said the doctor. "I''ll definitely take a look at her."'
+  type: chinese
+  comment: ! 'Covers: 一定. Cost: 0.0'
+- chinese: Helen很担心她的女儿。
+  english:
+  - Helen is very worried about her daughter.
+  type: chinese
+  comment: ! 'Covers: 担心. Cost: 0.0'
+- chinese: 他一直很担心他的女儿。
+  english:
+  - He's always worrying about his daughter.
+  type: chinese
+  comment: ! 'Covers: 一直. Cost: 0.0'
+- chinese: 你女儿又聪明又可爱。
+  english:
+  - You're daughter is both clever and cute.
+  type: chinese
+  comment: ! 'Covers: 可爱. Cost: 0.0'
+- chinese: Patty是个聪明的学生。
+  english:
+  - Patty is a smart student.
+  type: chinese
+  comment: ! 'Covers: 聪明. Cost: 0.0'
+- chinese: 他只有一个弟弟。
+  english:
+  - The only has one little brother.
+  type: chinese
+  comment: ! 'Covers: 只有. Cost: 0.0'
+- chinese: 她总是关心我的健康。
+  english:
+  - She always cared about my health.
+  type: chinese
+  comment: ! 'Covers: 关心. Cost: 0.0'
+- chinese: 我们必须想个好办法。
+  english:
+  - We have to think of a good plan.
+  type: chinese
+  comment: ! 'Covers: 办法. Cost: 0.0'
+- chinese: 我们几乎完成了我们的工作。
+  english:
+  - We have almost finished our work.
+  type: chinese
+  comment: ! 'Covers: 几乎. Cost: 0.0'
+- chinese: 我们让他做最后的决定。
+  english:
+  - We left the final decision to him.
+  type: chinese
+  comment: ! 'Covers: 最后. Cost: 0.0'
+- chinese: 我让她洗了碗。
+  english:
+  - I got her to wash dishes.
+  type: chinese
+  comment: ! 'Covers: 碗. Cost: 0.0'
+- chinese: Ken有两只猫。
+  english:
+  - Ken has two cats.
+  type: chinese
+  comment: ! 'Covers: 只. Cost: 0.0'
+- chinese: 今天，我们有一个数学的考试。
+  english:
+  - We had an examination in mathematics today.
+  type: chinese
+  comment: ! 'Covers: 数学. Cost: 0.0'
+- chinese: 他是我的一个邻居。
+  english:
+  - He is one of my neighbors.
+  type: chinese
+  comment: ! 'Covers: 邻居. Cost: 0.0'
+- chinese: 他给我看了她的照片。
+  english:
+  - He showed me her picture.
+  type: chinese
+  comment: ! 'Covers: 照片. Cost: 0.0'
+- chinese: 他没有给我回答他问题的机会。
+  english:
+  - He gave me no chance to reply to his question.
+  type: chinese
+  comment: ! 'Covers: 机会. Cost: 0.0'
+- chinese: 他用一个＂不＂回答了我的问题。
+  english:
+  - He answered my question with a "no."
+  type: chinese
+  comment: ! 'Covers: 用. Cost: 0.0'
+- chinese: 你会用筷子吗？
+  english:
+  - Do you know how to use chopsticks ?
+  type: chinese
+  comment: ! 'Covers: 筷子. Cost: 0.0'
+- chinese: 我明白怎么解决问题。
+  english:
+  - I understand how to solve the problem.
+  type: chinese
+  comment: ! 'Covers: 解决. Cost: 0.0'
+- chinese: 天气和我们的健康有很大的关系。
+  english:
+  - The weather has a great deal to do with our health.
+  type: chinese
+  comment: ! 'Covers: 关系. Cost: 0.0'
+- chinese: 我们有一个大超市。
+  english:
+  - We have a big supermarket.
+  type: chinese
+  comment: ! 'Covers: 超市. Cost: 0.0'
+- chinese: 大楼有20层。
+  english:
+  - The building has 20 floors.
+  type: chinese
+  comment: ! 'Covers: 层. Cost: 2.735978112175103e-2'
+- chinese: 她不喜欢住在城市里。
+  english:
+  - She didn't like living in the city.
+  type: chinese
+  comment: ! 'Covers: 城市. Cost: 0.0'
+- chinese: 他在这附近住。
+  english:
+  - He lives in this neighborhood.
+  type: chinese
+  comment: ! 'Covers: 附近. Cost: 0.0'
+- chinese: 这对他没有影响。
+  english:
+  - It has had no effect on him.
+  type: chinese
+  comment: ! 'Covers: 影响. Cost: 0.0'
+- chinese: 她向他问问题了。
+  english:
+  - She asked him questions.
+  type: chinese
+  comment: ! 'Covers: 向. Cost: 0.0'
+- chinese: 她对新环境不习惯。
+  english:
+  - She is not used to the new environment.
+  type: chinese
+  comment: ! 'Covers: 环境. Cost: 0.0'
+- chinese: 她的头发很短。
+  english:
+  - Her hair is very short.
+  type: chinese
+  comment: ! 'Covers: 短. Cost: 0.0'
+- chinese: 他有长头发。
+  english:
+  - He has long hair.
+  type: chinese
+  comment: ! 'Covers: 头发. Cost: 0.0'
+- chinese: 如果你不了解，就问问题。
+  english:
+  - If you don't understand, ask a question.
+  type: chinese
+  comment: ! 'Covers: 如果. Cost: 0.0'
+- chinese: 我们非常难过的时候就会哭。
+  english:
+  - When we are very sad, we will cry.
+  type: chinese
+  comment: ! 'Covers: 难过. Cost: 0.0'
+- chinese: 已经很长一段时间了。
+  english:
+  - It's been a long time.
+  type: chinese
+  comment: ! 'Covers: 段. Cost: 0.0'
+- chinese: 他很快就结束了。
+  english:
+  - He'll be done soon.
+  type: chinese
+  comment: ! 'Covers: 结束. Cost: 0.0'
+- chinese: 我的帽子比 Jim 的大。
+  english:
+  - My hat is bigger than Jim's.
+  type: chinese
+  comment: ! 'Covers: 帽子. Cost: 0.0'
+- chinese: 他想参加比赛。
+  english:
+  - He would like to take part in the competition.
+  type: chinese
+  comment: ! 'Covers: 比赛. Cost: 0.0'
+- chinese: 太阳比月亮大。
+  english:
+  - The sun is larger than the moon.
+  type: chinese
+  comment: ! 'Covers: 太阳. Cost: 0.0'
+- chinese: 楼里有|电梯吗？
+  english:
+  - Are there elevators in the building?
+  type: chinese
+  comment: ! 'Covers: 电梯. Cost: 0.0'
+- chinese: Ted 等了她很久。
+  english:
+  - Ted waited for her for a long time.
+  type: chinese
+  comment: ! 'Covers: 久. Cost: 0.0'
+- chinese: 今天特别热。
+  english:
+  - It is especially hot today.
+  type: chinese
+  comment: ! 'Covers: 特别. Cost: 0.0'
+- chinese: 他是由他奶奶带大的。
+  english:
+  - He was brought up by his grandmother.
+  type: chinese
+  comment: ! 'Covers: 奶奶. Cost: 5.785028346638898e-3'
+- chinese: 他站在街角。
+  english:
+  - He was standing at the street corner.
+  type: chinese
+  comment: ! 'Covers: 角. Cost: 1.0421008753647354e-2'
+- chinese: 你可以坐船去那。
+  english:
+  - You can go there in a boat.
+  type: chinese
+  comment: ! 'Covers: 船. Cost: 0.0'
+- chinese: 你可以拿你喜欢的东西。
+  english:
+  - You may take anything you like.
+  type: chinese
+  comment: ! 'Covers: 拿. Cost: 0.0'
+- chinese: 你应该先从最简单的问题开始。
+  english:
+  - You should begin with easier questions.
+  type: chinese
+  comment: ! 'Covers: 先. Cost: 0.0'
+- chinese: 你应该从比较简单的书开始。
+  english:
+  - Read such books as can be easily understood.
+  type: chinese
+  comment: ! 'Covers: 简单. Cost: 0.0'
+- chinese: 你最喜欢和朋友玩什么游戏？
+  english:
+  - What's your favorite game to play with friends?
+  type: chinese
+  comment: ! 'Covers: 游戏. Cost: 0.0'
+- chinese: 她疼得哭了。
+  english:
+  - She gave a cry of pain.
+  type: chinese
+  comment: ! 'Covers: 疼. Cost: 0.0'
+- chinese: 我习惯在没有空调的房间里睡觉。
+  english:
+  - I'm accustomed to sleeping in a room without air conditioning.
+  type: chinese
+  comment: ! 'Covers: 空调. Cost: 0.0'
+- chinese: 我喜欢绿颜色。
+  english:
+  - I like the green colour.
+  type: chinese
+  comment: ! 'Covers: 绿. Cost: 0.0'
+- chinese: 有多少种颜色？
+  english:
+  - How many colors are there?
+  type: chinese
+  comment: ! 'Covers: 种. Cost: 0.0'
+- chinese: Ken有比你更多的书。
+  english:
+  - Ken has more books than you.
+  type: chinese
+  comment: ! 'Covers: 更. Cost: 0.0'
+- chinese: 我没有其他更好的事情去做。
+  english:
+  - I have nothing better to do.
+  type: chinese
+  comment: ! 'Covers: 其他. Cost: 0.0'
+- chinese: 你其实有没有看过？
+  english:
+  - Did you read it at all?
+  type: chinese
+  comment: ! 'Covers: 其实. Cost: 0.0'
+- chinese: 他本应该更小心的。
+  english:
+  - He should have been more careful.
+  type: chinese
+  comment: ! 'Covers: 小心. Cost: 0.0'
+- chinese: Tatoeba是一本词典。
+  english:
+  - Tatoeba is a dictionary.
+  type: chinese
+  comment: ! 'Covers: 词典. Cost: 0.0'
+- chinese: 他写了一本关于中国的书。
+  english:
+  - He wrote a book on China.
+  type: chinese
+  comment: ! 'Covers: 关于. Cost: 0.0'
+- chinese: 你终于起来了
+  english:
+  - You finally got up. (from sleeping)
+  type: chinese
+  comment: ! 'Covers: 终于. Cost: 0.0'
+- chinese: 一起来吧。
+  english:
+  - Come with us.
+  type: chinese
+  comment: ! 'Covers: 起来. Cost: 0.0'
+- chinese: 他高兴地笑了起来。
+  english:
+  - He grinned with delight.
+  type: chinese
+  comment: ! 'Covers: 地. Cost: 0.0'
+- chinese: 求你了，给我一个瓶子吧！
+  english:
+  - I beg you, give me a bottle!
+  type: chinese
+  comment: ! 'Covers: 瓶子. Cost: 3.076544425301501e-3'
+- chinese: 你放心好了, 本周末一定下雨.
+  english:
+  - You can rely upon it that it will rain this weekend.
+  type: chinese
+  comment: ! 'Covers: 放心. Cost: 0.0'
+- chinese: 这方便得多了。
+  english:
+  - It's much more convenient.
+  type: chinese
+  comment: ! 'Covers: 方便. Cost: 0.0'
+- chinese: 请包起来。
+  english:
+  - Please wrap it up.
+  type: chinese
+  comment: ! 'Covers: 包. Cost: 0.0'
+- chinese: 请给我看一下你的笔记本。
+  english:
+  - Please show me your notebook.
+  type: chinese
+  comment: ! 'Covers: 笔记本. Cost: 0.0'
+- chinese: 请把菜单给我。
+  english:
+  - Please show me the menu.
+  type: chinese
+  comment: ! 'Covers: 菜单. Cost: 0.0'
+- chinese: 把盘子洗了。
+  english:
+  - Do the dishes!
+  type: chinese
+  comment: ! 'Covers: 盘子. Cost: 0.0'
+- chinese: 他需要一把伞。
+  english:
+  - He needs an umbrella.
+  type: chinese
+  comment: ! 'Covers: 伞. Cost: 0.0'
+- chinese: 她很快地把衬衫洗一洗。
+  english:
+  - She gave the blouse a quick wash.
+  type: chinese
+  comment: ! 'Covers: 衬衫. Cost: 0.0'
+- chinese: 他做了一把椅子给他儿子。
+  english:
+  - He made his son a chair.
+  type: chinese
+  comment: ! 'Covers: 把. Cost: 0.0'
+- chinese: 「这张椅子是谁的？」「是我的。」
+  english:
+  - ! '"Whose chair is this?" "It is mine."'
+  type: chinese
+  comment: ! 'Covers: 张. Cost: 0.0'
+- chinese: 我需要你的护照和三张照片。
+  english:
+  - I need your passport and three photographs.
+  type: chinese
+  comment: ! 'Covers: 护照. Cost: 0.0'
+- chinese: 他读三年级。
+  english:
+  - He is in the third grade.
+  type: chinese
+  comment: ! 'Covers: 年级. Cost: 0.0'
+- chinese: 你已经把蛋糕吃了。
+  english:
+  - You have already eaten the cake.
+  - You've already had cake.
+  type: chinese
+  comment: ! 'Covers: 蛋糕. Cost: 0.0'
+- chinese: 马吃草。
+  english:
+  - Horses eat grass.
+  type: chinese
+  comment: ! 'Covers: 草. Cost: 0.0'
+- chinese: 你才昨天谁来找我了？
+  english:
+  - Who do you think came to see me yesterday?
+  type: chinese
+  comment: ! 'Covers: 才. Cost: 0.0'
+- chinese: 我们必须找一个地方放这张新照片。
+  english:
+  - We must find a place for this new picture.
+  type: chinese
+  comment: ! 'Covers: 地方. Cost: 0.0'
+- chinese: 他喜欢找别人的错。
+  english:
+  - He likes finding faults in others.
+  type: chinese
+  comment: ! 'Covers: 别人. Cost: 0.0'
+- chinese: 他发现自己错了。
+  english:
+  - He saw that he was wrong.
+  type: chinese
+  comment: ! 'Covers: 发现. Cost: 0.0'
+- chinese: 他愿意为别人工作。
+  english:
+  - He was willing to work for others.
+  type: chinese
+  comment: ! 'Covers: 愿意. Cost: 0.0'
+- chinese: 他为自己的孩子能做的都做了。
+  english:
+  - He did everything he could for his child.
+  type: chinese
+  comment: ! 'Covers: 自己. Cost: 0.0'
+- chinese: 你能自己搬这张桌子吗?
+  english:
+  - Can you move this desk by yourself?
+  type: chinese
+  comment: ! 'Covers: 搬. Cost: 0.0'
+- chinese: 我想吃点甜的东西。
+  english:
+  - I feel like eating something sweet.
+  type: chinese
+  comment: ! 'Covers: 甜. Cost: 0.0'
+- chinese: 3点半了。
+  english:
+  - It's 3:30.
+  type: chinese
+  comment: ! 'Covers: 半. Cost: 0.0'
+- chinese: 现在7点30分了。
+  english:
+  - It was seven thirty.
+  type: chinese
+  comment: ! 'Covers: 分. Cost: 0.0'
+- chinese: 现在五点差一刻。
+  english:
+  - It is a quarter to five.
+  type: chinese
+  comment: ! 'Covers: 刻. Cost: 0.0'
+- chinese: 会议一直开到五点。
+  english:
+  - The meeting lasted until 5.
+  type: chinese
+  comment: ! 'Covers: 会议. Cost: 0.0'
+- chinese: 你们真是太热情了。
+  english:
+  - You're really too kind.
+  type: chinese
+  comment: ! 'Covers: 热情. Cost: 3.177023764137756e-3'
+- chinese: ABC公司在几楼?
+  english:
+  - What floor is ABC on?
+  type: chinese
+  comment: ! 'Covers: 楼. Cost: 0.0'
+- chinese: 今天晚上放什么电影?
+  english:
+  - What's on tonight?
+  type: chinese
+  comment: ! 'Covers: 放. Cost: 0.0'
+- chinese: 今天晚上我打算看电视。
+  english:
+  - I am going to watch TV this evening.
+  type: chinese
+  comment: ! 'Covers: 打算. Cost: 0.0'
+- chinese: 你能帮我拿这个行李箱吗？
+  english:
+  - Will you please help me carry this suitcase?
+  type: chinese
+  comment: ! 'Covers: 行李箱. Cost: 1.055152838888713e-3'
+- chinese: 你这种想法有没有根据？
+  english:
+  - Do you have any grounds for thinking so?
+  type: chinese
+  comment: ! 'Covers: 根据. Cost: 7.334066740007334e-3'
+- chinese: 我一点也不要香蕉。
+  english:
+  - I do not want any bananas at all.
+  type: chinese
+  comment: ! 'Covers: 香蕉. Cost: 1.649130908011478e-3'
+- chinese: 不要拉我的腿！
+  english:
+  - Don't pull my leg!
+  type: chinese
+  comment: ! 'Covers: 腿. Cost: 4.081632653061225e-3'
+- chinese: Ken跟Bill一样高。
+  english:
+  - Ken is as tall as Bill.
+  type: chinese
+  comment: ! 'Covers: 跟. Cost: 0.0'
+- chinese: Tatoeba:句子，句子和更多的句子。
+  english:
+  - ! 'Tatoeba: Sentences, sentences, and more sentences.'
+  type: chinese
+  comment: ! 'Covers: 句子. Cost: 0.0'
+- chinese: 比较一下你写的句子和黑板上的句子。
+  english:
+  - Compare your sentence with the one on the blackboard.
+  type: chinese
+  comment: ! 'Covers: 黑板. Cost: 0.0'
+- chinese: “一只猫？”老先生问。
+  english:
+  - ! '"A cat?" asked the old man.'
+  type: chinese
+  comment: ! 'Covers: 老. Cost: 0.0'
+- chinese: 他很少给他的妻子礼物。
+  english:
+  - He seldom gives his wife presents.
+  type: chinese
+  comment: ! 'Covers: 礼物. Cost: 0.0'
+- chinese: 他忘记给她买过一个礼物了。
+  english:
+  - He forgot that he bought her a present.
+  type: chinese
+  comment: ! 'Covers: 忘记. Cost: 0.0'
+- chinese: 客人都喜欢买便宜的吗？
+  english:
+  - Do all customers like to buy cheap ones?
+  type: chinese
+  comment: ! 'Covers: 客人. Cost: 0.0'
+- chinese: 我买了两条裤子。
+  english:
+  - I bought two pairs of trousers.
+  type: chinese
+  comment: ! 'Covers: 裤子. Cost: 0.0'
+- chinese: 我买了两条面包。
+  english:
+  - I bought two loaves of bread.
+  type: chinese
+  comment: ! 'Covers: 面包. Cost: 0.0'
+- chinese: 我阿姨做了一条新裙子给我。
+  english:
+  - My aunt made me a new skirt.
+  type: chinese
+  comment: ! 'Covers: 阿姨. Cost: 0.0'
+- chinese: 她喜欢这件新裙子。
+  english:
+  - She liked the new dress.
+  type: chinese
+  comment: ! 'Covers: 裙子. Cost: 0.0'
+- chinese: 你知道哪一条路到我家吗?
+  english:
+  - Do you know which road leads to my house?
+  type: chinese
+  comment: ! 'Covers: 条. Cost: 0.0'
+- chinese: 你不知道我多么爱你。
+  english:
+  - You don't know how much I love you.
+  type: chinese
+  comment: ! 'Covers: 多么. Cost: 0.0'
+- chinese: 他不知道为什么他的妻子要离开他。
+  english:
+  - He had no idea why his wife left him.
+  type: chinese
+  comment: ! 'Covers: 离开. Cost: 0.0'
+- chinese: 你看的书越多，你知道的越多。
+  english:
+  - The more books you read, the more you'll know.
+  type: chinese
+  comment: ! 'Covers: 越. Cost: 0.0'
+- chinese: 她进了她的房间换裙子。
+  english:
+  - She went into her room to change her dress.
+  type: chinese
+  comment: ! 'Covers: 换. Cost: 0.0'
+- chinese: 他把他的铅笔放在他的耳朵后面。
+  english:
+  - He stuck his pencil behind his ear.
+  type: chinese
+  comment: ! 'Covers: 耳朵. Cost: 0.0'
+- chinese: 他的名字我记得很清楚。
+  english:
+  - I remember that man's name very well.
+  type: chinese
+  comment: ! 'Covers: 记得. Cost: 0.0'
+- chinese: 他把他的意思对我讲清楚了。
+  english:
+  - He got his meaning across to me.
+  type: chinese
+  comment: ! 'Covers: 清楚. Cost: 0.0'
+- chinese: 我跟父母讲了留学的事情。
+  english:
+  - I talked with my parents about my studying abroad.
+  type: chinese
+  comment: ! 'Covers: 留学. Cost: 6.602403274792024e-3'
+- chinese: 你国家的人吃米吗?
+  english:
+  - Do the people of your country eat rice?
+  type: chinese
+  comment: ! 'Covers: 国家. Cost: 0.0'
+- chinese: 美国是个多文化的国家。
+  english:
+  - The US is a country with many different cultures.
+  type: chinese
+  comment: ! 'Covers: 文化. Cost: 2.7530765630592187e-3'
+- chinese: 他学美国的历史。
+  english:
+  - He studies American history.
+  type: chinese
+  comment: ! 'Covers: 历史. Cost: 5.402777027392079e-3'
+- chinese: 这个国家有四个季节。
+  english:
+  - There are four seasons in this country.
+  type: chinese
+  comment: ! 'Covers: 季节. Cost: 3.6440625466895515e-4'
+- chinese: 刚才和你说话的人是谁？
+  english:
+  - Who is the man that you were talking with?
+  type: chinese
+  comment: ! 'Covers: 刚才. Cost: 0.0'
+- chinese: 别了！希望很快我们能再见面。
+  english:
+  - Farewell! I hope we meet again soon.
+  type: chinese
+  comment: ! 'Covers: 见面. Cost: 0.0'
+- chinese: 我再试试，谢谢！
+  english:
+  - I'll try again, thank you.
+  type: chinese
+  comment: ! 'Covers: 试. Cost: 0.0'
+- chinese: 我们最近十年经历了很多变化。
+  english:
+  - We have experienced many changes over the last decade.
+  type: chinese
+  comment: ! 'Covers: 变化. Cost: 8.599191675982457e-3'
+- chinese: 他比我重十公斤。
+  english:
+  - He overweighs me by 10 kg.
+  type: chinese
+  comment: ! 'Covers: 公斤. Cost: 6.605019815059445e-3'
+- chinese: 水对人是很重要的。
+  english:
+  - Water is important for people.
+  type: chinese
+  comment: ! 'Covers: 重要. Cost: 0.0'
+- chinese: 我喝水因为我渴了。
+  english:
+  - I'm drinking water because I'm thirsty.
+  - I drink water because I am thirsty.
+  type: chinese
+  comment: ! 'Covers: 渴. Cost: 0.0'
+- chinese: 他喝太多啤酒。
+  english:
+  - He drinks too much beer.
+  type: chinese
+  comment: ! 'Covers: 啤酒. Cost: 0.0'
+- chinese: 你喝茶了马?
+  english:
+  - Did you drink tea?
+  type: chinese
+  comment: ! 'Covers: 马. Cost: 0.0'
+- chinese: 啤酒被朋友喝了。
+  english:
+  - The friend drank the beer.
+  type: chinese
+  comment: ! 'Covers: 被. Cost: 0.0'
+- chinese: 妈妈喜欢买新鲜的水果。
+  english:
+  - Mother likes to buy fresh fruit.
+  type: chinese
+  comment: ! 'Covers: 新鲜. Cost: 0.0'
+- chinese: 我想当体育记者。
+  english:
+  - I want to be a sport reporter.
+  type: chinese
+  comment: ! 'Covers: 体育. Cost: 1.9743336623889437e-2'
+- chinese: 为了提高我的汉语水平，我想去中国学习。
+  english:
+  - I'd like to study in China to improve the level of my Chinese.
+  type: chinese
+  comment: ! 'Covers: 水平. Cost: 0.0'
+- chinese: 他刚请假走了.
+  english:
+  - He's just gone on leave.
+  type: chinese
+  comment: ! 'Covers: 请假. Cost: 3.0805249214466146e-3'
+- chinese: 他说话就像一位老师。
+  english:
+  - He talks as if he were a teacher.
+  type: chinese
+  comment: ! 'Covers: 像. Cost: 0.0'
+- chinese: “喂，哪一位啊？”
+  english:
+  - ! '"Hello, who is this?"'
+  type: chinese
+  comment: ! 'Covers: 啊. Cost: 0.0'
+- chinese: 你家有几口人？
+  english:
+  - How many people are there in your family?
+  - How many people are in your family?
+  type: chinese
+  comment: ! 'Covers: 口. Cost: 0.0'
+- chinese: 小冰箱很脏。
+  english:
+  - The little fridge is dirty.
+  type: chinese
+  comment: ! 'Covers: 冰箱. Cost: 2.3196474135931337e-2'
+- chinese: 我弟弟在练习写中国字呢！
+  english:
+  - My little brother is practicing writing Chinese characters!
+  type: chinese
+  comment: ! 'Covers: 练习. Cost: 0.0'
+- chinese: 话在嘴边
+  english:
+  - It's on the tip of my tongue.
+  type: chinese
+  comment: ! 'Covers: 嘴. Cost: 9.901970492127933e-3'
+- chinese: 这是世界上最大的车。
+  english:
+  - This is the biggest car in the world.
+  type: chinese
+  comment: ! 'Covers: 世界. Cost: 1.3991101659344657e-3'
+- chinese: 马上就要入秋了。
+  english:
+  - Autumn is just around the corner.
+  type: chinese
+  comment: ! 'Covers: 秋. Cost: 1.3053126223730584e-2'
+- chinese: 两本书一共三块多钱，真便宜。
+  english:
+  - Two books are just over three dollars, that's really cheap.
+  type: chinese
+  comment: ! 'Covers: 一共. Cost: 0.0'
+- chinese: 你一共花了多少钱？
+  english:
+  - What is the total amount of money you spent?
+  type: chinese
+  comment: ! 'Covers: 花. Cost: 0.0'
+- chinese: 五千元是很多钱。
+  english:
+  - 5,000 yuan is a lot of money.
+  type: chinese
+  comment: ! 'Covers: 元. Cost: 0.0'
+- chinese: 他跟我借一百块。
+  english:
+  - He borrowed one hundred bucks from me.
+  type: chinese
+  comment: ! 'Covers: 借. Cost: 0.0'
+- chinese: 他告诉了学生要安静。
+  english:
+  - He told the students to be quiet.
+  type: chinese
+  comment: ! 'Covers: 安静. Cost: 0.0'
+- chinese: 你有一双很可爱的眼睛。
+  english:
+  - You have cute eyes.
+  type: chinese
+  comment: ! 'Covers: 双. Cost: 0.0'
+- chinese: 她有双蓝眼睛。
+  english:
+  - She has blue eyes.
+  type: chinese
+  comment: ! 'Covers: 蓝. Cost: 0.0'
+- chinese: 你生日的时候，我送你一辆自行车。
+  english:
+  - I will give you a bike for your birthday.
+  type: chinese
+  comment: ! 'Covers: 辆. Cost: 0.0'
+- chinese: 我有一辆旧的自行车。
+  english:
+  - I have an old bicycle.
+  type: chinese
+  comment: ! 'Covers: 旧. Cost: 0.0'
+- chinese: 叫辆出租车来接我们。
+  english:
+  - Call a taxicab to take us.
+  type: chinese
+  comment: ! 'Covers: 接. Cost: 0.0'
+- chinese: 那辆车卖一万块钱。
+  english:
+  - That car sells for ten thousand dollars.
+  type: chinese
+  comment: ! 'Covers: 万. Cost: 1.3991101659344657e-3'
+- chinese: 给我打电话或者发电子邮件都可以。
+  english:
+  - Give me a call or send an email, both will do.
+  type: chinese
+  comment: ! 'Covers: 发. Cost: 0.0'
+- chinese: 东一路有一所学校。
+  english:
+  - There is a school on First East Road.
+  type: chinese
+  comment: ! 'Covers: 东. Cost: 3.351206434316354e-2'
+- chinese: 我们接受所有主要的信用卡。
+  english:
+  - We accept all major credit cards.
+  type: chinese
+  comment: ! 'Covers: 主要. Cost: 4.506534474988734e-3'
+- chinese: 咱们一起复习你的英语练习好吗？
+  english:
+  - Shall we go over your English exercises together?
+  type: chinese
+  comment: ! 'Covers: 复习. Cost: 2.8288543140028287e-2'
+- chinese: ! 'A:  你的爱好是什么?
+
+    B:  我喜欢打篮球。你喜欢吗?
+
+    A:  我喜欢看,不喜欢打。
+
+'
+  english:
+  - ! 'What are your hobbies?
+
+    I like playing basketball. Do you like it?
+
+    I like to watch it, but I don’t like to play it.
+
+'
+  type: chinese
+  comment: ! 'Covers: 爱好. Cost: 0.0'
+- chinese: 因为他个子高，所以他打篮球很好。
+  english:
+  - Because he’s so tall, he plays basketball very well.
+  type: chinese
+  comment: ! 'Covers: 个子. Cost: 0.0'
+- chinese: 我听说南西很漂亮。
+  english:
+  - I hear that Nancy is very pretty.
+  type: chinese
+  comment: ! 'Covers: 西. Cost: 4.142502071251036e-3'
+- chinese: 飞机十分钟后起飞。
+  english:
+  - The plane takes off in ten minutes.
+  type: chinese
+  comment: ! 'Covers: 起飞. Cost: 1.5236005728738154e-3'
+- chinese: 要决定在节日的时候穿什么是件累人的事。
+  english:
+  - It's a hassle trying to decide what to wear to the party.
+  type: chinese
+  comment: ! 'Covers: 节日. Cost: 3.433099195968168e-4'
+- chinese: 他的声音听着很舒服。
+  english:
+  - His voice is pleasant to listen to.
+  type: chinese
+  comment: ! 'Covers: 声音. Cost: 0.0'
+- chinese: 故事发生在一个宁静的夏夜。
+  english:
+  - The story took place in a serene summer night.
+  type: chinese
+  comment: ! 'Covers: 夏. Cost: 0.14104372355430184'
+- chinese: 街道上垃圾成堆。
+  english:
+  - There were piles of litter in the streets.
+  type: chinese
+  comment: ! 'Covers: 街道. Cost: 1.4421690222094028e-2'
+- chinese: 四月底，黄河的水发黑了。
+  english:
+  - At the end of April, the water of the Yellow River had darkened.
+  type: chinese
+  comment: ! 'Covers: 黄河. Cost: 0.2617801047120419'
+- chinese: 一只鸟正在树上唱歌。
+  english:
+  - A bird is singing in the tree.
+  type: chinese
+  comment: ! 'Covers: 鸟. Cost: 0.0'
+- chinese: 不知何时春暖花开， 今天早晨还下雪了。
+  english:
+  - I don't know when spring will come and when the flowers will bloom. It was still
+    snowing this morning.
+  type: chinese
+  comment: ! 'Covers: 春. Cost: 0.19607843137254904'
+- chinese: 寒冷干燥，灿烂的阳光，多么美丽的冬日天气!
+  english:
+  - Cold and dry, splendid sunshine, what beautiful winter weather!
+  type: chinese
+  comment: ! 'Covers: 冬. Cost: 0.29154518950437314'
+- chinese: 有一条良好的A级公路通往北方--A级1号公路.
+  english:
+  - There's a good A-road going North -- the A1.
+  type: chinese
+  comment: ! 'Covers: 北方. Cost: 9.216589861751152e-2'
+- chinese: 他演奏钢琴时表现出极强的感受力.
+  english:
+  - He plays the piano with great feeling.
+  type: chinese
+  comment: ! 'Covers: 极. Cost: 4.798464491362764e-2'
