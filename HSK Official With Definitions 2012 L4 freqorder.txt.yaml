@@ -144,6 +144,7 @@
   comment: ! 'Covers: 当时. Cost: 0.0'
 - chinese: 他戴眼镜。
   english:
+  - He wears glasses.
   - He is wearing glasses.
   type: chinese
   comment: ! 'Covers: 眼镜. Cost: 0.0'
@@ -273,6 +274,7 @@
 - chinese: 你是我的阳光。
   english:
   - You are my sunshine.
+  pinyin: nǐ shì wǒ de yángguāng
   type: chinese
   comment: ! 'Covers: 阳光. Cost: 0.0'
 - chinese: 他不接受我的道歉。
@@ -283,6 +285,7 @@
 - chinese: 他接受了我的主意。
   english:
   - He accepted my idea.
+  pinyin: tā jiēshòu le wǒ de zhǔyi
   type: chinese
   comment: ! 'Covers: 主意. Cost: 0.0'
 - chinese: 他同意我的意见。
@@ -303,6 +306,7 @@
 - chinese: 今天天气挺冷的。
   english:
   - It's rather cold today.
+  pinyin: jīntiān tiānqì tǐng lěng de
   type: chinese
   comment: ! 'Covers: 挺. Cost: 0.0'
 - chinese: 他不记得我的地址了。
@@ -330,6 +334,16 @@
   - His methods are not scientific.
   type: chinese
   comment: ! 'Covers: 方法. Cost: 0.0'
+- chinese: 他是理科硕士。
+  english:
+  - He is a Master of Science.
+  type: chinese
+  comment: ! 'Covers: 硕士. Cost: 0.9090909090909091'
+- chinese: 他的女儿是护士。
+  english:
+  - His daughter is a nurse.
+  type: chinese
+  comment: ! 'Covers: 护士. Cost: 0.0'
 - chinese: 他的职业是医生。
   english:
   - He is a doctor by profession.
@@ -408,6 +422,7 @@
 - chinese: 你是多么的美丽！
   english:
   - You're so beautiful!
+  pinyin: nǐ shì duōme de měilì
   type: chinese
   comment: ! 'Covers: 美丽. Cost: 0.0'
 - chinese: 你最喜欢什么气候？
@@ -485,6 +500,11 @@
   - He always takes sides with her.
   type: chinese
   comment: ! 'Covers: 支持. Cost: 0.0'
+- chinese: 她是个合格的护士。
+  english:
+  - She is qualified as a nurse.
+  type: chinese
+  comment: ! 'Covers: 合格. Cost: 0.0'
 - chinese: 我不喜欢她说话的态度。
   english:
   - I don't like the way she speaks.
@@ -510,6 +530,11 @@
   - I had to give up my plan.
   type: chinese
   comment: ! 'Covers: 放弃. Cost: 0.0'
+- chinese: 他的工作符合了我们的期望。
+  english:
+  - His work comes up to what we expect of him.
+  type: chinese
+  comment: ! 'Covers: 符合. Cost: 3.727171077152441e-2'
 - chinese: 他终于出现了。
   english:
   - He appeared at last.
@@ -548,6 +573,7 @@
 - chinese: 她担心你的安全。
   english:
   - She has anxiety for your safety.
+  pinyin: tā dānxīn nǐ de ānquán
   type: chinese
   comment: ! 'Covers: 安全. Cost: 0.0'
 - chinese: 在郊区很安静。。。
@@ -708,26 +734,11 @@
   - Both you and I are students.
   type: chinese
   comment: ! 'Covers: 俩. Cost: 0.0'
-- chinese: 他的工作符合了我们的期望。
-  english:
-  - His work comes up to what we expect of him.
-  type: chinese
-  comment: ! 'Covers: 符合. Cost: 3.727171077152441e-2'
 - chinese: 你用多少糖？
   english:
   - How much sugar do you use?
   type: chinese
   comment: ! 'Covers: 糖. Cost: 0.0'
-- chinese: 她是个合格的护士。
-  english:
-  - She is qualified as a nurse.
-  type: chinese
-  comment: ! 'Covers: 合格. Cost: 0.0'
-- chinese: 他的女儿是护士。
-  english:
-  - His daughter is a nurse.
-  type: chinese
-  comment: ! 'Covers: 护士. Cost: 0.0'
 - chinese: 她确实喜欢动物。
   english:
   - She really does like animals.
@@ -837,6 +848,7 @@
 - chinese: 叶子落了。
   english:
   - The leaves fell.
+  pinyin: yèzi luò le
   type: chinese
   comment: ! 'Covers: 叶子. Cost: 1.9357336430507164e-2'
 - chinese: 我很想吃饺子。
@@ -947,6 +959,7 @@
 - chinese: 他敲了门。
   english:
   - He knocked on the door.
+  pinyin: tā qiāo le mén
   type: chinese
   comment: ! 'Covers: 敲. Cost: 0.0'
 - chinese: 他有丰富的经验。
@@ -987,6 +1000,7 @@
 - chinese: 你对什么都太怀疑了。
   english:
   - You are too suspicious about everything.
+  pinyin: nǐ duì shénme dōu tài huáiyí le
   type: chinese
   comment: ! 'Covers: 怀疑. Cost: 0.0'
 - chinese: 这对我太合适了。
@@ -1001,8 +1015,9 @@
   comment: ! 'Covers: 棒. Cost: 0.0'
 - chinese: 今年的天气不太正常。
   english:
-  - This year's weather isn't very typical.
   - This year's weather is rather unusual.
+  - This year's weather isn't very typical.
+  pinyin: jīnnián de tiānqì bù tài zhèngcháng
   type: chinese
   comment: ! 'Covers: 正常. Cost: 1.8615040953090096e-2'
 - chinese: 这只手机实在是太贵了。
@@ -1013,6 +1028,7 @@
 - chinese: 中国发展得太快了。
   english:
   - China's developing too quickly.
+  pinyin: Zhōngguó fāzhǎn de tài kuài le
   type: chinese
   comment: ! 'Covers: 发展. Cost: 0.0'
 - chinese: 他开车速度非常快。
@@ -1235,6 +1251,7 @@
 - chinese: 今天也好像会下雨。
   english:
   - It looks like it'll rain today, too.
+  pinyin: jīntiān yě hǎoxiàng huì xiàyǔ
   type: chinese
   comment: ! 'Covers: 好像. Cost: 0.0'
 - chinese: 也许下午会下雨。
@@ -1503,6 +1520,7 @@
 - chinese: 我们最近十年经历了很多变化。
   english:
   - We have experienced many changes over the last decade.
+  pinyin: wǒmen zuìjìn shí nián jīnglì le hěn duō biànhuà
   type: chinese
   comment: ! 'Covers: 经历. Cost: 0.0'
 - chinese: 除了语言，我也对技术感兴趣。
@@ -1513,6 +1531,7 @@
 - chinese: 他开始掉头发了。
   english:
   - He is beginning to lose his hair.
+  pinyin: tā kāishǐ diào tóufa le
   type: chinese
   comment: ! 'Covers: 掉. Cost: 0.0'
 - chinese: 她的头发长而美丽。
@@ -1896,16 +1915,6 @@
   - Please fill in the blanks in the sentence.
   type: chinese
   comment: ! 'Covers: 填空. Cost: 3.6440625466895515e-4'
-- chinese: 严格地说你错了。
-  english:
-  - Strictly speaking, you are wrong.
-  type: chinese
-  comment: ! 'Covers: 严格. Cost: 0.0'
-- chinese: 严格地讲,这句话语法上有错误。
-  english:
-  - Strictly speaking, this sentence is grammatically incorrect.
-  type: chinese
-  comment: ! 'Covers: 语法. Cost: 5.606009642336585e-3'
 - chinese: 他不愿意受到打扰。
   english:
   - He did not care to be disturbed.
@@ -1919,6 +1928,7 @@
 - chinese: 我肯定事情会往好的方向发展。
   english:
   - I am sure the condition will turn for the better.
+  pinyin: wǒ kěndìng shìqing huì wǎng hǎo de fāngxiàng fāzhǎn
   type: chinese
   comment: ! 'Covers: 方向. Cost: 0.0'
 - chinese: 他是一个成功的性格演员。
@@ -1994,6 +2004,7 @@
 - chinese: 那家公司在广告上花了很多钱。
   english:
   - The company spends a lot of money on advertising.
+  pinyin: nà jiā gōngsī zài guǎnggào shàng huā le hěn duō qián
   type: chinese
   comment: ! 'Covers: 广告. Cost: 0.0'
 - chinese: 我们应该告诉孩子怎么保护自己。
@@ -2049,11 +2060,13 @@
 - chinese: 他甚至没说再见就离开了家。
   english:
   - He left the house without so much as saying good-bye.
+  pinyin: tā shènzhì méi shuō zàijiàn jiù líkāi le jiā
   type: chinese
   comment: ! 'Covers: 甚至. Cost: 2.1030449988538403e-4'
 - chinese: 他至少有一千本书。
   english:
   - He has at least one thousand books.
+  pinyin: tā zhìshǎo yǒu yī qiān běn shū
   type: chinese
   comment: ! 'Covers: 至少. Cost: 0.0'
 - chinese: 你千万不要和你父母说这件事。
@@ -2265,6 +2278,7 @@
 - chinese: 她想洗脏衣服。
   english:
   - She wanted to wash the dirty clothes.
+  pinyin: tā xiǎng xǐ zāng yīfu
   type: chinese
   comment: ! 'Covers: 脏. Cost: 0.0'
 - chinese: 他不仅给了我们衣服，还有一点钱。
@@ -2490,11 +2504,13 @@
 - chinese: 他拉上了他的包。
   english:
   - He zipped his bag shut.
+  pinyin: tā lā shàng le tā de bāo
   type: chinese
   comment: ! 'Covers: 拉. Cost: 0.0'
 - chinese: 他是由他奶奶带大的。
   english:
   - He was brought up by his grandmother.
+  pinyin: tā shì yóu tā nǎinai dài dà de
   type: chinese
   comment: ! 'Covers: 由. Cost: 0.0'
 - chinese: 他最喜欢吃的菜是烤鸭。
@@ -2520,11 +2536,13 @@
 - chinese: 他越说越兴奋。
   english:
   - As he talked, he got more and more excited.
+  pinyin: tā yuè shuō yuè xīngfèn
   type: chinese
   comment: ! 'Covers: 兴奋. Cost: 0.0'
 - chinese: 她把画挂反了。
   english:
   - She hung the picture upside down.
+  pinyin: tā bǎ huà guà fǎn le
   type: chinese
   comment: ! 'Covers: 挂. Cost: 1.937984496124031e-2'
 - chinese: 或有或无。。。
@@ -2560,6 +2578,7 @@
 - chinese: 他和我力气一样大.
   english:
   - He's my equal in strength.
+  pinyin: tā hé wǒ lìqi yīyàng dà
   type: chinese
   comment: ! 'Covers: 力气. Cost: 0.0'
 - chinese: 我正在大学里读经济。
@@ -2582,6 +2601,16 @@
   - Since she is seriously ill, we have to send for a doctor at once.
   type: chinese
   comment: ! 'Covers: 厉害. Cost: 8.844078889183692e-3'
+- chinese: 严格地讲,这句话语法上有错误。
+  english:
+  - Strictly speaking, this sentence is grammatically incorrect.
+  type: chinese
+  comment: ! 'Covers: 语法. Cost: 5.606009642336585e-3'
+- chinese: 严格地说你错了。
+  english:
+  - Strictly speaking, you are wrong.
+  type: chinese
+  comment: ! 'Covers: 严格. Cost: 0.0'
 - chinese: 给我一份打印出的统计资料.
   english:
   - Get me a printout of the statistics.
@@ -2714,6 +2743,11 @@
   - Can you speak a little slower please?
   type: chinese
   comment: ! 'Covers: 稍微. Cost: 8.575299706724749e-4'
+- chinese: 由于找不到工作，许我男人都报名参了军。
+  english:
+  - Many men sign up for the army because they can not get ordinary jobs.
+  type: chinese
+  comment: ! 'Covers: 报名. Cost: 1.0'
 - chinese: 他因为动作犯规而被裁判记下姓名。
   english:
   - He was booked by the referee for foul play.
@@ -2733,6 +2767,7 @@
 - chinese: 今早我比平时早了一个小时起床。
   english:
   - This morning I got up an hour earlier than usual.
+  pinyin: jīn zǎo wǒ bǐ píngshí zǎo le yī gè xiǎoshí qǐchuáng
   type: chinese
   comment: ! 'Covers: 平时. Cost: 2.320185614849188e-2'
 - chinese: 词语的定义不应比所解释的词语更难理解.
@@ -2745,6 +2780,11 @@
   - ! 'Rubber is not hard: it gives way to pressure.'
   type: chinese
   comment: ! 'Covers: 橡皮. Cost: 0.1404494382022472'
+- chinese: 老太婆一个个地数出三十便士给了售货员.
+  english:
+  - The old lady counted out thirty pence and gave it to the shop assistant.
+  type: chinese
+  comment: ! 'Covers: 售货员. Cost: 1.0'
 - chinese: 他决定不买那个房子了，首先是因为太贵了，其次是因为离他的办公室太远了。
   english:
   - He decided not to buy the house, because in the first place it was too expensive,
@@ -2778,8 +2818,66 @@
     the total value.
   type: chinese
   comment: ! 'Covers: 百分之. Cost: 0.10548523206751054'
+- chinese: 来自国家发展和改革委员会的数据显示，互联网在中国农村地区发展迅猛。
+  english:
+  - As figures from the National Development and Reform Committee show, the Internet
+    has developed rapidly in rural China.
+  type: chinese
+  comment: ! 'Covers: 互联网. Cost: 1.0526315789473684'
+- chinese: 积累而成的，累积的以积累效果为特征的或者表现出积累效果的；累积的
+  english:
+  - Characterized by or showing the effects of accumulation; cumulative.
+  type: chinese
+  comment: ! 'Covers: 积累. Cost: 0.6711409395973155'
 - chinese: 不论阶级，种族，性别，人人都可进这所学校上课。
   english:
   - Everybody can come to this school, without respect to class, race, or sex.
   type: chinese
   comment: ! 'Covers: 性别. Cost: 0.37735849056603776'
+- chinese: 本人欲应聘今天＜中国日报＞上刊登的征聘行政秘书一职。
+  english:
+  - I am applying for the position of executive secretary, advertised in today's China
+    Daily.
+  type: chinese
+  comment: ! 'Covers: 应聘. Cost: 1.0'
+- chinese: ! 'Lin: 请出示您的飞机票。
+
+    Dave: 小姐,请给我靠窗口的座位。
+
+    Lin: 当然可以。您有行李要托运吗?
+
+    Dave: 没有。我只有一个背包。
+
+    Lin: 您要买航空保险吗?
+
+    Dave: 不用了。谢谢。
+
+    Lin: 这是你的登机牌。请去六号登机口等候。
+
+    Dave: 你知道洗手间在哪儿吗?
+
+    Lin: 在那儿。
+
+'
+  english:
+  - ! 'Lin: Your tickets, please.
+
+    Dave: Could I please have a seat by the window, Miss.
+
+    Lin: Certainly. Do you have any luggage to check in?
+
+    Dave: No, I only have a small backpack.
+
+    Lin: Do you want to buy travel insurance?
+
+    Dave: No need, thank you.
+
+    Lin: This is your boarding pass. Please go to gate six and wait.
+
+    Dave: Do you know where the bathroom is?
+
+    Lin: They are over there.
+
+'
+  type: chinese
+  comment: ! 'Covers: 登机牌. Cost: 1.282051282051282'

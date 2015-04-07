@@ -7,6 +7,7 @@
 - chinese: 不客气。
   english:
   - You are welcome.
+  - You're welcome.
   type: chinese
   comment: ! 'Covers: 不客气. Cost: 0.0'
 - chinese: 再见。
@@ -22,6 +23,7 @@
 - chinese: 下午好。
   english:
   - Good afternoon.
+  pinyin: xiàwǔ hǎo
   type: chinese
   comment: ! 'Covers: 好. Cost: 0.0'
 - chinese: ! '......你喜欢什么？'
@@ -32,6 +34,7 @@
 - chinese: 你喜欢什么东西？
   english:
   - What (things) do you like?
+  pinyin: nǐ xǐhuan shénme dōng xi
   type: chinese
   comment: ! 'Covers: 东西. Cost: 0.0'
 - chinese: 你对不起我。
@@ -62,16 +65,19 @@
 - chinese: 你不吃没关系。
   english:
   - It's OK not to eat it.
+  pinyin: nǐ bù chī méiguānxi
   type: chinese
   comment: ! 'Covers: 没关系. Cost: 0.0'
 - chinese: 你中午吃了什么？
   english:
   - What did you eat in the afternoon?
+  pinyin: nǐ zhōngwǔ chī le shénme
   type: chinese
   comment: ! 'Covers: 中午. Cost: 0.0'
 - chinese: 他喜欢中国吗?
   english:
   - Does he like China?
+  pinyin: tā xǐhuan Zhōngguó ma
   type: chinese
   comment: ! 'Covers: 中国. Cost: 0.0'
 - chinese: 你怎么没有来？
@@ -97,27 +103,32 @@
 - chinese: 他在说什么？
   english:
   - What is he talking about?
+  pinyin: tā zài shuō shénme
   type: chinese
   comment: ! 'Covers: 说. Cost: 0.0'
 - chinese: 我在吃米饭。
   english:
   - I am eating rice.
+  pinyin: wǒ zài chī mǐfàn
   type: chinese
   comment: ! 'Covers: 米饭. Cost: 0.0'
 - chinese: Crouch 先生，你在做什么？
   english:
   - Mr. Crouch, what are you doing?
+  pinyin: xiānsheng nǐ zài zuò shénme
   type: chinese
   comment: ! 'Covers: 在. Cost: 0.0'
 - chinese: Muiriel现在20岁了。
   english:
-  - Muiriel is 20 now.
   - Muiriel has turned twenty.
+  - Muiriel is 20 now.
+  pinyin: xiànzài suì le
   type: chinese
   comment: ! 'Covers: 了. Cost: 0.0'
 - chinese: 他是个好学生。
   english:
   - He is a good student.
+  pinyin: tā shì gè hǎo xuésheng
   type: chinese
   comment: ! 'Covers: 学生. Cost: 0.0'
 - chinese: 他学习汉语。
@@ -128,26 +139,31 @@
 - chinese: 他是我的同学。
   english:
   - He is my classmate.
+  pinyin: Tā shì wǒ de tóngxué.
   type: chinese
   comment: ! 'Covers: 同学. Cost: 0.0'
 - chinese: Luke，我是你的儿子。
   english:
   - Luke, I am your son.
+  pinyin: wǒ shì nǐ de érzi
   type: chinese
   comment: ! 'Covers: 儿子. Cost: 0.0'
 - chinese: Luke，我是你的爸爸。
   english:
   - Luke, I am your father.
+  pinyin: wǒ shì nǐ de bàba
   type: chinese
   comment: ! 'Covers: 爸爸. Cost: 0.0'
 - chinese: 他是我的菜!
   english:
   - He is my type!
+  pinyin: tā shì wǒ de cài
   type: chinese
   comment: ! 'Covers: 菜. Cost: 0.0'
 - chinese: 他去哪儿了？
   english:
   - Where did he go?
+  pinyin: tā qù nǎr le
   type: chinese
   comment: ! 'Covers: 哪儿. Cost: 0.0'
 - chinese: 他买什么去？
@@ -158,6 +174,7 @@
 - chinese: 他去了商店。
   english:
   - He went to the store.
+  pinyin: tā qù le shāngdiàn
   type: chinese
   comment: ! 'Covers: 商店. Cost: 0.0'
 - chinese: 他在买苹果
@@ -173,41 +190,49 @@
 - chinese: 我住在北京。
   english:
   - I live in Beijing.
+  pinyin: Wǒ zhù zài Běijīng．
   type: chinese
   comment: ! 'Covers: 北京. Cost: 0.0'
 - chinese: 我要去饭店。
   english:
   - I'm going to the restaurant.
+  pinyin: wǒ yào qù fàndiàn
   type: chinese
   comment: ! 'Covers: 饭店. Cost: 1.4056433770301004e-4'
 - chinese: 他是我们学校的老师。
   english:
   - He is a teacher at our school.
+  pinyin: tā shì wǒmen xuéxiào de lǎoshī
   type: chinese
   comment: ! 'Covers: 学校. Cost: 0.0'
 - chinese: 他和我是老师.
   english:
   - He and I are teachers.
+  pinyin: tā hé wǒ shì lǎoshī
   type: chinese
   comment: ! 'Covers: 和. Cost: 0.0'
 - chinese: 你上哪去？
   english:
   - Where are you going?
+  pinyin: nǐ shàng nǎ qù
   type: chinese
   comment: ! 'Covers: 哪. Cost: 0.0'
 - chinese: Tom上飞机了。
   english:
   - Tom got on the airplane.
+  pinyin: shàng fēijī le
   type: chinese
   comment: ! 'Covers: 上. Cost: 0.0'
 - chinese: 书在桌子上。
   english:
   - The book is on the table.
+  pinyin: shū zài zhuōzi shàng
   type: chinese
   comment: ! 'Covers: 书. Cost: 0.0'
 - chinese: 你爱吃什么水果？
   english:
   - Which fruit do you like?
+  pinyin: Nǐ ài chī shénme shuǐguǒ?
   type: chinese
   comment: ! 'Covers: 水果. Cost: 0.0'
 - chinese: 他爱她。
@@ -224,11 +249,13 @@
   english:
   - Felicja enjoys watching TV.
   - Felicja likes to watch TV.
+  pinyin: xǐhuan kàn diànshì
   type: chinese
   comment: ! 'Covers: 看. Cost: 0.0'
 - chinese: 你喜欢看电影吗？
   english:
   - Do you like to watch movies?
+  pinyin: nǐ xǐhuan kàn diànyǐng ma
   type: chinese
   comment: ! 'Covers: 电影. Cost: 0.0'
 - chinese: 开电视。
@@ -239,21 +266,25 @@
 - chinese: 我会说一点儿。
   english:
   - I can talk for a bit.
+  pinyin: wǒ huì shuō yīdiǎnr
   type: chinese
   comment: ! 'Covers: 一点儿. Cost: 0.0'
 - chinese: 今天下午会下雨吗？
   english:
   - Will it rain this afternoon?
+  pinyin: jīntiān xiàwǔ huì xiàyǔ ma
   type: chinese
   comment: ! 'Covers: 会. Cost: 0.0'
 - chinese: 他今天下午会来的。
   english:
   - He will come this afternoon.
+  pinyin: tā jīntiān xiàwǔ huì lái de
   type: chinese
   comment: ! 'Covers: 来. Cost: 0.0'
 - chinese: 今天下午你读的什么书?
   english:
   - What is the book you are poring over this afternoon?
+  pinyin: jīntiān xiàwǔ nǐ dú de shénme shū
   type: chinese
   comment: ! 'Covers: 读. Cost: 0.0'
 - chinese: 今天天气怎么样？
@@ -264,11 +295,13 @@
 - chinese: 今天下午天气会很好。
   english:
   - It will be fine this afternoon.
+  pinyin: jīntiān xiàwǔ tiānqì huì hěn hǎo
   type: chinese
   comment: ! 'Covers: 天气. Cost: 0.0'
 - chinese: Bill的朋友很多。
   english:
   - Bill has many friends.
+  pinyin: de péngyou hěn duō
   type: chinese
   comment: ! 'Covers: 的. Cost: 0.0'
 - chinese: Bill有很多朋友。
@@ -284,11 +317,13 @@
 - chinese: 今天很冷。
   english:
   - It's cold today.
+  pinyin: jīntiān hěn lěng
   type: chinese
   comment: ! 'Covers: 冷. Cost: 0.0'
 - chinese: 他很能吃。
   english:
   - He eats like a horse.
+  pinyin: tā hěn néng chī
   type: chinese
   comment: ! 'Covers: 能. Cost: 0.0'
 - chinese: 他很高兴。
@@ -304,16 +339,19 @@
 - chinese: 你能请个医生来吗？
   english:
   - Could you call a doctor, please?
+  pinyin: nǐ néng qǐng gè yīshēng lái ma
   type: chinese
   comment: ! 'Covers: 请. Cost: 0.0'
 - chinese: 先生，请听我说!
   english:
   - Now listen to me, mister!
+  pinyin: xiānsheng qǐng tīng wǒ shuō
   type: chinese
   comment: ! 'Covers: 听. Cost: 0.0'
 - chinese: 很好，谢谢。
   english:
   - Fine, thanks.
+  pinyin: hěn hǎo xièxie
   type: chinese
   comment: ! 'Covers: 谢谢. Cost: 0.0'
 - chinese: 我没有很多衣服。
@@ -324,6 +362,7 @@
 - chinese: 我能些吃的东西吗？
   english:
   - Can I have something to eat?
+  pinyin: wǒ néng xiē chī de dōng xi ma
   type: chinese
   comment: ! 'Covers: 些. Cost: 0.0'
 - chinese: Ken昨天在家吗？
@@ -354,6 +393,7 @@
 - chinese: 她想在医院里工作。
   english:
   - She wants to work in a hospital.
+  pinyin: tā xiǎng zài yīyuàn lǐ gōngzuò
   type: chinese
   comment: ! 'Covers: 里. Cost: 0.0'
 - chinese: 明天上午行吗?
@@ -364,11 +404,13 @@
 - chinese: 他有太多书。
   english:
   - He has too many books.
+  pinyin: tā yǒu tài duō shū
   type: chinese
   comment: ! 'Covers: 太. Cost: 0.0'
 - chinese: 你太漂亮了！
   english:
   - You're so beautiful!
+  pinyin: nǐ tài piàoliang le
   type: chinese
   comment: ! 'Covers: 漂亮. Cost: 0.0'
 - chinese: 他有很多钱。
@@ -391,11 +433,13 @@
   english:
   - Where did he go?
   - Where did they go?
+  pinyin: rén ne
   type: chinese
   comment: ! 'Covers: 人. Cost: 0.0'
 - chinese: 没有椅子坐。
   english:
   - There's no chair to sit upon.
+  pinyin: méiyǒu yǐzi zuò
   type: chinese
   comment: ! 'Covers: 坐. Cost: 0.0'
 - chinese: Ken的狗很大。
@@ -496,6 +540,7 @@
 - chinese: 一年有12个月。
   english:
   - A year has 12 months.
+  pinyin: Yìnián yǒu 12 ge yuè.
   type: chinese
   comment: ! 'Covers: 年. Cost: 0.0'
 - chinese: 一个月有四个多星期。
@@ -506,11 +551,13 @@
 - chinese: 你真的吃得下这东西?
   english:
   - You're seriously going to eat this?
+  pinyin: nǐ zhēn de chī de xià zhè dōng xi
   type: chinese
   comment: ! 'Covers: 下. Cost: 3.274587238278615e-4'
 - chinese: 他帮我打到一辆出租车。
   english:
   - He found me a taxi.
+  pinyin: tā bāng wǒ dǎ dào yī liàng chūzūchē
   type: chinese
   comment: ! 'Covers: 出租车. Cost: 5.419466724474312e-3'
 - chinese: 我让她等了一分钟。

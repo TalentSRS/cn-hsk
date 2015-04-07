@@ -25,6 +25,7 @@
 - chinese: 好暗。
   english:
   - It was so dark.
+  pinyin: hǎo àn
   type: chinese
   comment: ! 'Covers: 暗. Cost: 0.0'
 - chinese: 好怀念啊。
@@ -297,6 +298,7 @@
 - chinese: 雪消失了。
   english:
   - The snow has disappeared.
+  pinyin: xuě xiāoshī le
   type: chinese
   comment: ! 'Covers: 消失. Cost: 0.0'
 - chinese: 我劝你告诉他实话。
@@ -1667,6 +1669,7 @@
 - chinese: 我有一大堆工作要做。
   english:
   - I have a mountain of work to do.
+  pinyin: wǒ yǒu yī dà duī gōngzuò yào zuò
   type: chinese
   comment: ! 'Covers: 堆. Cost: 0.0'
 - chinese: 我做了个可怕的梦
@@ -2062,6 +2065,7 @@
 - chinese: 锁坏了。
   english:
   - The lock is broken.
+  pinyin: suǒ huài le
   type: chinese
   comment: ! 'Covers: 锁. Cost: 0.0'
 - chinese: 你挡我路?
@@ -2172,6 +2176,7 @@
 - chinese: 好的，您想咨询什么事情？
   english:
   - OK, what would you like advice on?
+  pinyin: hǎo de nín xiǎng zīxún shénme shìqing
   type: chinese
   comment: ! 'Covers: 咨询. Cost: 0.0'
 - chinese: 他做的事情你赞成的吧？
@@ -2835,11 +2840,26 @@
   - The surrounding area was very quiet.
   type: chinese
   comment: ! 'Covers: 地区. Cost: 0.0'
+- chinese: 我的外公想安静地度过晚年。
+  english:
+  - My grandfather wants to live quietly for the rest of his life.
+  type: chinese
+  comment: ! 'Covers: 外公. Cost: 1.0526315789473684'
+- chinese: 她意外地发现了他的真实身份。
+  english:
+  - She stumbled on his true identity.
+  type: chinese
+  comment: ! 'Covers: 身份. Cost: 0.0'
 - chinese: 我厌倦了现在单调的生活。
   english:
   - I am tired of my monotonous life.
   type: chinese
   comment: ! 'Covers: 单调. Cost: 4.5207956600361664e-2'
+- chinese: 幸亏我当时系上了安全带。
+  english:
+  - Thanks to I had tied then the safety belt.
+  type: chinese
+  comment: ! 'Covers: 幸亏. Cost: 1.0'
 - chinese: 你今天最好随身带把伞。
   english:
   - You had better take an umbrella with you today.
@@ -2955,6 +2975,31 @@
   - He was happy to have passed the examination.
   type: chinese
   comment: ! 'Covers: 及格. Cost: 5.0735667174023336e-3'
+- chinese: 我们没有人满意此系统。
+  english:
+  - Not all of us were satisfied with the system.
+  type: chinese
+  comment: ! 'Covers: 系统. Cost: 4.41696113074205e-3'
+- chinese: 我对会议的结果感到极其满意.
+  english:
+  - I was most gratified at/by/with the outcome of the meeting.
+  type: chinese
+  comment: ! 'Covers: 极其. Cost: 5.0735667174023336e-3'
+- chinese: 与其说他是一个教授，不如说他是一个学校的老师。
+  english:
+  - He is not so much a professor as a school teacher.
+  type: chinese
+  comment: ! 'Covers: 与其. Cost: 0.0'
+- chinese: 与其说她善良不如说她单纯。
+  english:
+  - She is not so kind as simple.
+  type: chinese
+  comment: ! 'Covers: 善良. Cost: 0.0'
+- chinese: 风景不如你描述的那么好。
+  english:
+  - The scene is nothing like what you described.
+  type: chinese
+  comment: ! 'Covers: 风景. Cost: 3.041362530413625e-2'
 - chinese: 我真想看看古代的世界是怎样的。
   english:
   - I wish I could see the ancient world.
@@ -3003,6 +3048,7 @@
 - chinese: 那男孩忽然哭了起来。
   english:
   - The boy began crying all of a sudden.
+  pinyin: nà nánhái hūrán kū le qi lai
   type: chinese
   comment: ! 'Covers: 忽然. Cost: 7.019514249613926e-3'
 - chinese: 报纸的报道往往不尊重私人权利.
@@ -3010,6 +3056,11 @@
   - Newspapers often don't respect the individual's right to privacy.
   type: chinese
   comment: ! 'Covers: 权利. Cost: 0.0'
+- chinese: 教授将要做关于地理特征的讲座。
+  english:
+  - The professor will give a lecture of geographical features.
+  type: chinese
+  comment: ! 'Covers: 特征. Cost: 7.621951219512195e-2'
 - chinese: 母亲设法培养儿子对音乐的兴趣。
   english:
   - The mother tried to foster her son's interest in music.
@@ -3035,56 +3086,6 @@
   - A good student usually knows how to sum up knowledge in good time.
   type: chinese
   comment: ! 'Covers: 通常. Cost: 0.0'
-- chinese: 我对会议的结果感到极其满意.
-  english:
-  - I was most gratified at/by/with the outcome of the meeting.
-  type: chinese
-  comment: ! 'Covers: 极其. Cost: 5.0735667174023336e-3'
-- chinese: 我们没有人满意此系统。
-  english:
-  - Not all of us were satisfied with the system.
-  type: chinese
-  comment: ! 'Covers: 系统. Cost: 4.41696113074205e-3'
-- chinese: 与其说他是一个教授，不如说他是一个学校的老师。
-  english:
-  - He is not so much a professor as a school teacher.
-  type: chinese
-  comment: ! 'Covers: 与其. Cost: 0.0'
-- chinese: 与其说她善良不如说她单纯。
-  english:
-  - She is not so kind as simple.
-  type: chinese
-  comment: ! 'Covers: 善良. Cost: 0.0'
-- chinese: 风景不如你描述的那么好。
-  english:
-  - The scene is nothing like what you described.
-  type: chinese
-  comment: ! 'Covers: 风景. Cost: 3.041362530413625e-2'
-- chinese: 听说您已经跟中介公司联系过了。
-  english:
-  - I hear you've already contacted the broker.
-  type: chinese
-  comment: ! 'Covers: 中介. Cost: 4.142502071251036e-3'
-- chinese: 共同的利益把这两人联系到一起。
-  english:
-  - me in strength but Common interest brings these two together.
-  type: chinese
-  comment: ! 'Covers: 利益. Cost: 0.0'
-- chinese: 总共来了23位客人.
-  english:
-  - There are 23 guests coming, all told.
-  type: chinese
-  comment: ! 'Covers: 总共. Cost: 0.0'
-- chinese: 许多动画的共同语言是字幕。
-  english:
-  - The common language of many anime is subtitles.
-  type: chinese
-  comment: ! 'Covers: 字幕. Cost: 0.33557046979865773'
-- chinese: 教授将要做关于地理特征的讲座。
-  english:
-  - The professor will give a lecture of geographical features.
-  type: chinese
-  comment: ! 'Covers: 特征. Cost: 7.621951219512195e-2'
 - chinese: 询问处在哪里？
   english:
   - Where is the information counter?
@@ -3215,21 +3216,6 @@
   - He asked his secretary to make a copy of the document.
   type: chinese
   comment: ! 'Covers: 文件. Cost: 0.0'
-- chinese: 她意外地发现了他的真实身份。
-  english:
-  - She stumbled on his true identity.
-  type: chinese
-  comment: ! 'Covers: 身份. Cost: 0.0'
-- chinese: 这份工作在我能力范围之外.
-  english:
-  - This job is beyond my ability.
-  type: chinese
-  comment: ! 'Covers: 范围. Cost: 2.9895366218236172e-2'
-- chinese: 因为这份工作的关系，我总是要打领带。
-  english:
-  - I always have to wear a tie because of my job.
-  type: chinese
-  comment: ! 'Covers: 领带. Cost: 0.0'
 - chinese: 球迷一看见他都激动得大喊大叫.
   english:
   - The fans screamed with excitement when they saw him.
@@ -3272,16 +3258,6 @@
   - I'll bear full responsibility for the consequences.
   type: chinese
   comment: ! 'Covers: 后果. Cost: 1.344772867862618e-3'
-- chinese: 这份工作没什么挑战性。
-  english:
-  - I don't get enough challenge in this job.
-  type: chinese
-  comment: ! 'Covers: 挑战. Cost: 7.466587023071754e-3'
-- chinese: 我挑不出他的毛病。
-  english:
-  - I can't find fault with him.
-  type: chinese
-  comment: ! 'Covers: 毛病. Cost: 1.9860973187686197e-2'
 - chinese: 他为他的迟到制造了一个借口。
   english:
   - He invented an excuse for being late.
@@ -3468,11 +3444,6 @@
   - He always quarrels with his wife.
   type: chinese
   comment: ! 'Covers: 吵架. Cost: 0.0'
-- chinese: 他把毛巾系在脖子上。
-  english:
-  - He knotted a towel about his neck.
-  type: chinese
-  comment: ! 'Covers: 系. Cost: 0.0'
 - chinese: 他正在看一篇关于道路状况的报告。
   english:
   - He is reading a report of the state of the roads.
@@ -3759,16 +3730,21 @@
   - Her proposal met with continual rejections.
   type: chinese
   comment: ! 'Covers: 一再. Cost: 6.377551020408163e-2'
+- chinese: 她的武术练到家了。
+  english:
+  - She is expert at Chinese boxing.
+  type: chinese
+  comment: ! 'Covers: 武术. Cost: 0.5405405405405405'
+- chinese: 学生依次朗读他们各自的作业。
+  english:
+  - The pupils took turns in reading out their work.
+  type: chinese
+  comment: ! 'Covers: 朗读. Cost: 0.9615384615384615'
 - chinese: 对应该采取怎样的步骤这一点还不太明确.
   english:
   - There is some confusion about what the right procedure should be.
   type: chinese
   comment: ! 'Covers: 明确. Cost: 3.5205069530012323e-3'
-- chinese: 对队员的挑选似乎完全是主观决定的。
-  english:
-  - The choice of players for the team seems completely arbitrary.
-  type: chinese
-  comment: ! 'Covers: 主观. Cost: 6.317119393556538e-2'
 - chinese: 尽量避免制造任何更多的麻烦。
   english:
   - Try to avoid making any more trouble.
@@ -3804,21 +3780,21 @@
   - Clearness of statement is more important than beauty of language.
   type: chinese
   comment: ! 'Covers: 优美. Cost: 0.0'
-- chinese: 现在的日本动画片越来越色情了！
+- chinese: 有没有一个国家比美国更提倡爱国主义？
   english:
-  - Japanese anime these days is becoming more and more like pornography.
+  - Does any other country fan the flames of patriotism as much as America?
   type: chinese
-  comment: ! 'Covers: 动画片. Cost: 4.9701789264413515e-2'
+  comment: ! 'Covers: 提倡. Cost: 1.3333333333333333'
 - chinese: ! '不同之处在于: 他比你更努力工作。'
   english:
   - ! 'The difference is this: he works harder than you.'
   type: chinese
   comment: ! 'Covers: 在于. Cost: 6.594566077552098e-3'
-- chinese: 我们越等越不耐烦。
+- chinese: 我早餐通常吃得很清淡。
   english:
-  - The longer we waited, the more impatient we became.
+  - I usually have a light breakfast.
   type: chinese
-  comment: ! 'Covers: 不耐烦. Cost: 0.0'
+  comment: ! 'Covers: 清淡. Cost: 1.0'
 - chinese: 文字处理软件和电脑不同的是，它只有一个用途。
   english:
   - Compared to a computer, a word processor has a single purpose.
@@ -3829,6 +3805,36 @@
   - Ubuntu includes lots of software.
   type: chinese
   comment: ! 'Covers: 包括. Cost: 0.0'
+- chinese: 现在的日本动画片越来越色情了！
+  english:
+  - Japanese anime these days is becoming more and more like pornography.
+  type: chinese
+  comment: ! 'Covers: 动画片. Cost: 4.9701789264413515e-2'
+- chinese: 我们越等越不耐烦。
+  english:
+  - The longer we waited, the more impatient we became.
+  type: chinese
+  comment: ! 'Covers: 不耐烦. Cost: 0.0'
+- chinese: 许多动画的共同语言是字幕。
+  english:
+  - The common language of many anime is subtitles.
+  type: chinese
+  comment: ! 'Covers: 字幕. Cost: 0.33557046979865773'
+- chinese: 总共来了23位客人.
+  english:
+  - There are 23 guests coming, all told.
+  type: chinese
+  comment: ! 'Covers: 总共. Cost: 0.0'
+- chinese: 共同的利益把这两人联系到一起。
+  english:
+  - me in strength but Common interest brings these two together.
+  type: chinese
+  comment: ! 'Covers: 利益. Cost: 0.0'
+- chinese: 听说您已经跟中介公司联系过了。
+  english:
+  - I hear you've already contacted the broker.
+  type: chinese
+  comment: ! 'Covers: 中介. Cost: 4.142502071251036e-3'
 - chinese: 很多东西是由竹子做出的。
   english:
   - Many things are made out of bamboo.
@@ -4000,6 +4006,7 @@
 - chinese: 你在你的被子下面藏了多少钱？
   english:
   - How much money do you have hidden under your bed?
+  pinyin: nǐ zài nǐ de bèizi xiàmian cáng le duō shao qián
   type: chinese
   comment: ! 'Covers: 被子. Cost: 8.896005693443645e-3'
 - chinese: 下面的解释是通过比较和对比各种不同的理论。
@@ -4094,31 +4101,6 @@
   - This shop sells bicycles and spare parts.
   type: chinese
   comment: ! 'Covers: 零件. Cost: 1.4378145219266714e-2'
-- chinese: 他给我一条项链作为周年纪念礼物。
-  english:
-  - He gave me a necklace as an anniversary gift.
-  type: chinese
-  comment: ! 'Covers: 纪念. Cost: 7.153075822603719e-2'
-- chinese: 她脖子上戴着一条银项链。
-  english:
-  - She wore a silver chain around her neck.
-  type: chinese
-  comment: ! 'Covers: 项链. Cost: 0.0'
-- chinese: 你可以从银行贷款。
-  english:
-  - You can get a loan from a bank.
-  type: chinese
-  comment: ! 'Covers: 贷款. Cost: 0.0'
-- chinese: 那家破产的银行正被法院调查。
-  english:
-  - The bank of bankruptcy is investigated by the court.
-  type: chinese
-  comment: ! 'Covers: 法院. Cost: 0.0'
-- chinese: 我从未用过人民币付款。
-  english:
-  - I've never made payment in Renminbi before.
-  type: chinese
-  comment: ! 'Covers: 人民币. Cost: 1.6542597187758478e-2'
 - chinese: 这条法律依然有效。
   english:
   - The law is still in effect.
@@ -4134,6 +4116,11 @@
   - You will be punished if you break the law.
   type: chinese
   comment: ! 'Covers: 违反. Cost: 2.523977788995457e-2'
+- chinese: 他给我一条项链作为周年纪念礼物。
+  english:
+  - He gave me a necklace as an anniversary gift.
+  type: chinese
+  comment: ! 'Covers: 纪念. Cost: 7.153075822603719e-2'
 - chinese: 假如你没有这个程序，你现在就可以去下载。
   english:
   - If you do not have this program, you can download it now.
@@ -4179,6 +4166,11 @@
   - The government's policies are beginning to tell.
   type: chinese
   comment: ! 'Covers: 发挥. Cost: 7.168458781362008e-2'
+- chinese: 对休闲有明显作用的另一产业是娱乐。
+  english:
+  - Another industry obviously devoted to leisure is entertainment.
+  type: chinese
+  comment: ! 'Covers: 休闲. Cost: 1.0'
 - chinese: 昨天我们玩得特别痛快!
   english:
   - Yesterday, we had a blast!
@@ -4204,6 +4196,11 @@
   - It's not polite to point at others.
   type: chinese
   comment: ! 'Covers: 手指. Cost: 0.0'
+- chinese: 说苗条比说瘦更有礼貌。
+  english:
+  - It's more polite to say thin than skinny.
+  type: chinese
+  comment: ! 'Covers: 苗条. Cost: 1.0'
 - chinese: 由于电脑工业的发展，许多新公司纷纷成立。
   english:
   - The computer industry has spawned a lot of new companies.
@@ -4219,6 +4216,11 @@
   - The manager ordered all the rooms to be swept clean as soon as possible.
   type: chinese
   comment: ! 'Covers: 命令. Cost: 0.0'
+- chinese: 我会帮你买菜，打扫，以及做晚餐。
+  english:
+  - I'll do your shopping, clean up the house, and cook your dinner for you.
+  type: chinese
+  comment: ! 'Covers: 以及. Cost: 1.3931457230426303e-2'
 - chinese: 她参加初级饭店经理课程。
   english:
   - She attend a course for junior hotel manager.
@@ -4234,11 +4236,6 @@
   - The surface of the earth is 70% water.
   type: chinese
   comment: ! 'Covers: 表面. Cost: 2.6753705388196268e-3'
-- chinese: 我会帮你买菜，打扫，以及做晚餐。
-  english:
-  - I'll do your shopping, clean up the house, and cook your dinner for you.
-  type: chinese
-  comment: ! 'Covers: 以及. Cost: 1.3931457230426303e-2'
 - chinese: 谁掌握国家的最高权力?
   english:
   - Who holds sovereign power in the state?
@@ -4274,6 +4271,11 @@
   - All those dots are viral focuses.
   type: chinese
   comment: ! 'Covers: 集中. Cost: 9.132003104881056e-4'
+- chinese: 这份工作在我能力范围之外.
+  english:
+  - This job is beyond my ability.
+  type: chinese
+  comment: ! 'Covers: 范围. Cost: 2.9895366218236172e-2'
 - chinese: 这是一个纯学术性的问题。
   english:
   - The question is purely academic.
@@ -4346,6 +4348,21 @@
   - The reporter has sent an article describing the rigors of life at the poles.
   type: chinese
   comment: ! 'Covers: 描写. Cost: 0.0'
+- chinese: 那家破产的银行正被法院调查。
+  english:
+  - The bank of bankruptcy is investigated by the court.
+  type: chinese
+  comment: ! 'Covers: 法院. Cost: 0.0'
+- chinese: 你可以从银行贷款。
+  english:
+  - You can get a loan from a bank.
+  type: chinese
+  comment: ! 'Covers: 贷款. Cost: 0.0'
+- chinese: 我从未用过人民币付款。
+  english:
+  - I've never made payment in Renminbi before.
+  type: chinese
+  comment: ! 'Covers: 人民币. Cost: 1.6542597187758478e-2'
 - chinese: 那张照片上的突出物是我们的大楼。
   english:
   - The projection on the picture is our building.
@@ -4401,6 +4418,11 @@
   - And if I were gay, would that be a crime?
   type: chinese
   comment: ! 'Covers: 构成. Cost: 1.7911517105498837e-2'
+- chinese: 中国孩子会在春节前买很多鞭炮。
+  english:
+  - Chinese children like to buy many firecrackers before the Spring Festival.
+  type: chinese
+  comment: ! 'Covers: 鞭炮. Cost: 5.555555555555555'
 - chinese: 他凭直觉认为她说的是谎话。
   english:
   - He had a hunch that she was lying.
@@ -4416,6 +4438,31 @@
   - He married a girl of extraordinary beauty.
   type: chinese
   comment: ! 'Covers: 姑娘. Cost: 0.0'
+- chinese: 他把毛巾系在脖子上。
+  english:
+  - He knotted a towel about his neck.
+  type: chinese
+  comment: ! 'Covers: 系. Cost: 0.0'
+- chinese: 我挑不出他的毛病。
+  english:
+  - I can't find fault with him.
+  type: chinese
+  comment: ! 'Covers: 毛病. Cost: 1.9860973187686197e-2'
+- chinese: 这份工作没什么挑战性。
+  english:
+  - I don't get enough challenge in this job.
+  type: chinese
+  comment: ! 'Covers: 挑战. Cost: 7.466587023071754e-3'
+- chinese: 她脖子上戴着一条银项链。
+  english:
+  - She wore a silver chain around her neck.
+  type: chinese
+  comment: ! 'Covers: 项链. Cost: 0.0'
+- chinese: 对队员的挑选似乎完全是主观决定的。
+  english:
+  - The choice of players for the team seems completely arbitrary.
+  type: chinese
+  comment: ! 'Covers: 主观. Cost: 6.317119393556538e-2'
 - chinese: 他玩股票赔了。
   english:
   - He lost a fortune in the stock market.
@@ -4522,6 +4569,11 @@
   - All the apple trees were cut down.
   type: chinese
   comment: ! 'Covers: 砍. Cost: 0.0'
+- chinese: 别耽误了，现在就去索取一份免费的目录吧。
+  english:
+  - Don't delay. Write now for a free catalogue.
+  type: chinese
+  comment: ! 'Covers: 目录. Cost: 0.5988023952095809'
 - chinese: 我偶然发现了那本书。
   english:
   - I found the book by accident.
@@ -4563,6 +4615,11 @@
   - We walk along the lakeside.
   type: chinese
   comment: ! 'Covers: 岸. Cost: 6.6711140760507e-2'
+- chinese: 发票为到岸价35英镑.
+  english:
+  - The invoice was for 35 cif.
+  type: chinese
+  comment: ! 'Covers: 发票. Cost: 1.0'
 - chinese: 玛丽一点也没有其他兴趣，她的全部生活都围绕着丈夫和孩子转。
   english:
   - Mary has no outside interest at all.Her whole life revolves around her husband
@@ -4633,6 +4690,7 @@
 - chinese: 今天的天空是我看过最蓝的天空。
   english:
   - The sky today is the bluest that I've ever seen it.
+  pinyin: jīntiān de tiānkōng shì wǒ kàn guò zuì lán de tiānkōng
   type: chinese
   comment: ! 'Covers: 天空. Cost: 0.0'
 - chinese: 黄金比铁重。
@@ -4680,11 +4738,6 @@
   - What are you burrowing around in my drawer for?
   type: chinese
   comment: ! 'Covers: 翻. Cost: 0.0'
-- chinese: 我们接近她时, 她就挥棒乱打.
-  english:
-  - As we approached her, she laid about her with a stick.
-  type: chinese
-  comment: ! 'Covers: 挥. Cost: 1.4290818149339049e-3'
 - chinese: 你的袜子上有个大洞。
   english:
   - You've got a big hole in your sock.
@@ -4719,6 +4772,7 @@
   english:
   - Only four horses competed in the race.
   - Only four horses were in the race.
+  pinyin: zhǐyǒu sì pǐ mǎ cānjiā le bǐsài
   type: chinese
   comment: ! 'Covers: 匹. Cost: 0.0'
 - chinese: 不论下不下雨，比赛照常举行。
@@ -4767,6 +4821,11 @@
     still don't get it.
   type: chinese
   comment: ! 'Covers: 反复. Cost: 0.0'
+- chinese: 我们接近她时, 她就挥棒乱打.
+  english:
+  - As we approached her, she laid about her with a stick.
+  type: chinese
+  comment: ! 'Covers: 挥. Cost: 1.4290818149339049e-3'
 - chinese: 我们看漏了这件重要的事。
   english:
   - We have overlooked this important fact.
@@ -4822,6 +4881,16 @@
   - I reminded him of his interview with the president.
   type: chinese
   comment: ! 'Covers: 总裁. Cost: 4.409171075837742e-2'
+- chinese: 早餐时总统会见了白宫的高级助手.
+  english:
+  - The President met with senior White House aides at breakfast.
+  type: chinese
+  comment: ! 'Covers: 高级. Cost: 5.6179775280898875e-2'
+- chinese: 普通的白玻璃是透明的。
+  english:
+  - Plain glass is transparent.
+  type: chinese
+  comment: ! 'Covers: 透明. Cost: 1.9007793195210038e-2'
 - chinese: 我要一夸脱的牛奶。
   english:
   - I want a quart of milk.
@@ -4832,11 +4901,6 @@
   - Put the carrots in the pot.
   type: chinese
   comment: ! 'Covers: 锅. Cost: 0.14903129657228018'
-- chinese: 普通的白玻璃是透明的。
-  english:
-  - Plain glass is transparent.
-  type: chinese
-  comment: ! 'Covers: 透明. Cost: 1.9007793195210038e-2'
 - chinese: 没人能阻止我！
   english:
   - Nobody can stop me!
@@ -4875,6 +4939,7 @@
 - chinese: 他故意踩我的脚。
   english:
   - He stepped on my foot on purpose.
+  pinyin: tā gùyì cǎi wǒ de jiǎo
   type: chinese
   comment: ! 'Covers: 踩. Cost: 0.0'
 - chinese: 事故由一个简单的错误产生。
@@ -4990,6 +5055,7 @@
 - chinese: 水结冻后，变成冰。
   english:
   - When water freezes it becomes ice.
+  pinyin: shuǐ jié dòng hòu biànchéng bīng
   type: chinese
   comment: ! 'Covers: 冻. Cost: 2.120441051738762e-2'
 - chinese: 感想更多地建立在感情而不是理智上的观点；感想
@@ -4997,16 +5063,11 @@
   - Opinion based more on emotion than on reason; sentiment.
   type: chinese
   comment: ! 'Covers: 感想. Cost: 8.920606601248884e-2'
-- chinese: 该演员与观众建立了密切的关系.
+- chinese: 胸针用夹子或别针固定的一件首饰；胸针
   english:
-  - The actor developed a close rapport with his audience.
+  - A piece of jewelry that fastens with a clasp or clip; a brooch.
   type: chinese
-  comment: ! 'Covers: 建立. Cost: 9.817781966698085e-4'
-- chinese: 由於全体演员的出色表演, 那出戏才获得成功.
-  english:
-  - The play succeeded thanks to fine acting by all the cast.
-  type: chinese
-  comment: ! 'Covers: 出色. Cost: 6.165228113440198e-2'
+  comment: ! 'Covers: 夹子. Cost: 1.0'
 - chinese: 这对於设计新市中心是个最佳的反面教材。
   english:
   - It is a classic example of how not to design a new city centre.
@@ -5020,6 +5081,7 @@
 - chinese: 医院还有别的方法可以救他吗？
   english:
   - How else can the doctor save him?
+  pinyin: yīyuàn háiyǒu biéde fāngfǎ kěyǐ jiù tā ma
   type: chinese
   comment: ! 'Covers: 救. Cost: 5.4019014693171994e-3'
 - chinese: 这套书出版以来，在市场上反应良好，我们决定推广这种学习方法。
@@ -5067,11 +5129,26 @@
   - The relationships of socialisers are often reflected in the distance between them.
   type: chinese
   comment: ! 'Covers: 交际. Cost: 5.400151204233718e-3'
+- chinese: 因为这份工作的关系，我总是要打领带。
+  english:
+  - I always have to wear a tie because of my job.
+  type: chinese
+  comment: ! 'Covers: 领带. Cost: 0.0'
 - chinese: 月亮每28天绕地球一圈.
   english:
   - The moon circles the earth every 28 days.
   type: chinese
   comment: ! 'Covers: 圈. Cost: 6.621902605056484e-4'
+- chinese: 该演员与观众建立了密切的关系.
+  english:
+  - The actor developed a close rapport with his audience.
+  type: chinese
+  comment: ! 'Covers: 建立. Cost: 9.817781966698085e-4'
+- chinese: 由於全体演员的出色表演, 那出戏才获得成功.
+  english:
+  - The play succeeded thanks to fine acting by all the cast.
+  type: chinese
+  comment: ! 'Covers: 出色. Cost: 6.165228113440198e-2'
 - chinese: 你要么自己来，要么就托人办理这件事。
   english:
   - Either you come in person, or you entrust someone with the matter.
@@ -5108,6 +5185,11 @@
     English.
   type: chinese
   comment: ! 'Covers: 中心. Cost: 2.8288543140028287e-2'
+- chinese: 录音磁带的复制质量有了很大改进。
+  english:
+  - The reproductive quality of audio tapes has improved enormously.
+  type: chinese
+  comment: ! 'Covers: 录音. Cost: 1.0'
 - chinese: 我把充电器的型号记下了。
   english:
   - I've memorized the model number of the charger.
@@ -5118,11 +5200,6 @@
   - Analyse the sentence into its constituent parts.
   type: chinese
   comment: ! 'Covers: 成分. Cost: 0.33222591362126247'
-- chinese: 早餐时总统会见了白宫的高级助手.
-  english:
-  - The President met with senior White House aides at breakfast.
-  type: chinese
-  comment: ! 'Covers: 高级. Cost: 5.6179775280898875e-2'
 - chinese: 猎人把狮子的头挂在墙上当纪念品。
   english:
   - The hunter put the lion's head on the wall as a trophy.
@@ -5168,6 +5245,11 @@
   - The troops mustered (on the square).
   type: chinese
   comment: ! 'Covers: 广场. Cost: 2.9120559114735e-2'
+- chinese: 前途光明的表示名望或成功的希望的
+  english:
+  - Showing promise of fame or success.
+  type: chinese
+  comment: ! 'Covers: 光明. Cost: 0.6578947368421053'
 - chinese: 采用这种新方法无须再用手工检验产品。
   english:
   - This new process has eliminated the need for checking the products by hand.
@@ -5276,9 +5358,15 @@
   - Honey, don't forget to wake me up for work at 11 o'clock.
   type: chinese
   comment: ! 'Covers: 喊. Cost: 0.0'
+- chinese: 人们认为这座神庙是古典式设计的范例。
+  english:
+  - The temple has been considered an example of classic design.
+  type: chinese
+  comment: ! 'Covers: 古典. Cost: 1.9607843137254901'
 - chinese: 他害怕得声音发抖。
   english:
   - His voice shook with fear.
+  pinyin: tā hàipà de shēngyīn fādǒu
   type: chinese
   comment: ! 'Covers: 发抖. Cost: 0.0'
 - chinese: 我站在那里，害怕得直发抖。
@@ -5297,11 +5385,6 @@
     gain the contract.
   type: chinese
   comment: ! 'Covers: 正. Cost: 0.0'
-- chinese: 在演讲开始时，他总是先分发一份提纲。
-  english:
-  - At the beginning he would always hand out an outline of the lecture.
-  type: chinese
-  comment: ! 'Covers: 提纲. Cost: 0.26595744680851063'
 - chinese: 在除夕唱｀美好的往日＇是传统风俗.
   english:
   - It's a tradition to sing `Auld Lang Syne' on New Year's Eve.
@@ -5367,11 +5450,6 @@
   - Turn here to get on the subway.
   type: chinese
   comment: ! 'Covers: 拐弯. Cost: 1.7003910899506886e-2'
-- chinese: 汽车打滑时伤了两个行人和一个骑自行车的.
-  english:
-  - Two pedestrians and a cyclist were injured when the car skidded.
-  type: chinese
-  comment: ! 'Covers: 行人. Cost: 1.4136273678258413e-2'
 - chinese: 病人安静地躺在内科病房的床上。
   english:
   - The patient lay quietly on his bed in the medical ward.
@@ -5382,6 +5460,11 @@
   - Red, as opposed to green, is a sign of danger.
   type: chinese
   comment: ! 'Covers: 标志. Cost: 3.8037276531000384e-2'
+- chinese: 那个贼偷偷钻进黑胡同里.
+  english:
+  - The thief slunk down the dark alley.
+  type: chinese
+  comment: ! 'Covers: 胡同. Cost: 0.5235602094240838'
 - chinese: 关于这个问题，我觉得垃圾媒体只报道了很片面的信息。
   english:
   - Concerning this issue, I feel that the trash media only report biased information.
@@ -5407,11 +5490,26 @@
   - A massive earthquake of magnitude 8.8 hit the Japanese islands today.
   type: chinese
   comment: ! 'Covers: 岛屿. Cost: 3.378378378378378e-2'
+- chinese: 他使劲儿把食物咽下去, 嘴唇都扭曲起来.
+  english:
+  - His lips worked as he tried to swallow the food.
+  type: chinese
+  comment: ! 'Covers: 使劲儿. Cost: 0.6097560975609756'
 - chinese: 刚开始的时候你可能不会喜欢这个啤酒。这是需要多次品尝去习惯它的口味。
   english:
   - You might not like this beer at first. It's an acquired taste.
   type: chinese
   comment: ! 'Covers: 口味. Cost: 0.16286644951140067'
+- chinese: 在我回来途中，我停下来参观了这个县刚建立的两座工厂。
+  english:
+  - On my return journey, I stopped to see two factories the county had just established.
+  type: chinese
+  comment: ! 'Covers: 县. Cost: 1.0'
+- chinese: 他总是到处乱闯，直到我叫他停才停了下来。
+  english:
+  - He kept on barging about until I told him to stop.
+  type: chinese
+  comment: ! 'Covers: 闯. Cost: 6.894174422612891e-3'
 - chinese: 她的长发披在後背直垂到腰间.
   english:
   - Her hair hung down her back to her waist.
@@ -5454,6 +5552,11 @@
   - Linda stuck her tongue out.
   type: chinese
   comment: ! 'Covers: 伸. Cost: 0.1336898395721925'
+- chinese: 享乐主义者喜爱豪华奢侈生活的人；享乐主义者
+  english:
+  - A devotee to sensuous and luxurious living; an epicure.
+  type: chinese
+  comment: ! 'Covers: 豪华. Cost: 1.0'
 - chinese: 你想瞧瞧这画吗？－－是的！很想！
   english:
   - Would you like to have a look at the picture? --- Yes, I should very much like
@@ -5465,6 +5568,16 @@
   - Her handwriting slants from left to right.
   type: chinese
   comment: ! 'Covers: 斜. Cost: 1.9301293186643503e-2'
+- chinese: 画家要求模特取斜倚着的姿势。
+  english:
+  - The artist asked his model to take a reclining posture.
+  type: chinese
+  comment: ! 'Covers: 模特. Cost: 1.5873015873015872'
+- chinese: 他用一只手臂围住她做出保护的姿势。
+  english:
+  - He put his arm round her in a protective gesture.
+  type: chinese
+  comment: ! 'Covers: 姿势. Cost: 0.7633587786259541'
 - chinese: 我姥姥只喝了点儿汤。
   english:
   - My grandma just drank a bit of soup.
@@ -5475,11 +5588,12 @@
   - I know how to make beef stroganoff.
   type: chinese
   comment: ! 'Covers: 炒. Cost: 9.643201542912247e-2'
-- chinese: 他总是到处乱闯，直到我叫他停才停了下来。
+- chinese: 一些大学生在假期去非洲做志愿者 ，帮助当地完善野生生物管理。
   english:
-  - He kept on barging about until I told him to stop.
+  - During the holidays, some university students go to Africa as volunteers and help
+    to perfect local wildlife conservation.
   type: chinese
-  comment: ! 'Covers: 闯. Cost: 6.894174422612891e-3'
+  comment: ! 'Covers: 完善. Cost: 1.0'
 - chinese: 下次再到一个需要使Shockwave的网站时，Shockwave控制程序就会自动装载并播放电影。
   english:
   - The next time you go to a"Shocked" website, the Shockwave control loads and plays
@@ -5501,25 +5615,51 @@
   - Resembling or having the nature of an idiom.
   type: chinese
   comment: ! 'Covers: 成语. Cost: 4.757373929590866e-2'
+- chinese: 那个国家现在正处于军事独裁统治之下。
+  english:
+  - That country is now living under a military dictatorship.
+  type: chinese
+  comment: ! 'Covers: 军事. Cost: 0.5154639175257733'
 - chinese: 发射以光线或波的形式发出和传播能量
   english:
   - Emission and propagation of energy in the form of rays or waves.
   type: chinese
   comment: ! 'Covers: 传播. Cost: 0.10822510822510822'
+- chinese: 杰克是一位精通中国古代经典著作的学者。
+  english:
+  - Jack is a scholar steeped in the classics of ancient China.
+  type: chinese
+  comment: ! 'Covers: 经典. Cost: 1.0'
 - chinese: 主席的简短陈辞概括了委员会的观点.
   english:
   - The chairman's short statement encapsulates the views of the committee.
   type: chinese
   comment: ! 'Covers: 概括. Cost: 0.18518518518518517'
+- chinese: 近代研究已使这个问题大为明朗化了。
+  english:
+  - Modern investigations have thrown great light on this question.
+  type: chinese
+  comment: ! 'Covers: 近代. Cost: 0.7142857142857143'
 - chinese: 音乐学生学习给一个现有的调子配上其他音部，还要学习怎样转成和声调。
   english:
   - Music students learn how to add other parts to add other parts to a given tune,
     and how to modulate to a related key.
   type: chinese
   comment: ! 'Covers: 声调. Cost: 0.41493775933609955'
+- chinese: 今天强盗大白天的就抢了另一家银行。
+  english:
+  - The thieves knocked off another bank today in a daytime robbery.
+  type: chinese
+  comment: ! 'Covers: 抢. Cost: 0.41493775933609955'
+- chinese: 在党的培育下，他已成长为一个优秀的战士。
+  english:
+  - Nurtured by the Party, he grown into a good fighter.
+  type: chinese
+  comment: ! 'Covers: 成长. Cost: 0.6097560975609756'
 - chinese: 我对座次表作了小小的调整。
   english:
   - I've made a few minor adjustments to the seating plan.
+  pinyin: wǒ duì zuò cì biǎo zuò le xiǎoxiǎo de tiáozhěng
   type: chinese
   comment: ! 'Covers: 调整. Cost: 8.496176720475786e-2'
 - chinese: 青青，一只七岁的熊猫甚至能认出它的名字。
@@ -5527,16 +5667,26 @@
   - Qing Qing, a seven-year-old panda, can even recognise its name.
   type: chinese
   comment: ! 'Covers: 青. Cost: 3.8299502106472615e-2'
-- chinese: 今天强盗大白天的就抢了另一家银行。
+- chinese: 在演讲开始时，他总是先分发一份提纲。
   english:
-  - The thieves knocked off another bank today in a daytime robbery.
+  - At the beginning he would always hand out an outline of the lecture.
   type: chinese
-  comment: ! 'Covers: 抢. Cost: 0.41493775933609955'
+  comment: ! 'Covers: 提纲. Cost: 0.26595744680851063'
+- chinese: 汽车打滑时伤了两个行人和一个骑自行车的.
+  english:
+  - Two pedestrians and a cyclist were injured when the car skidded.
+  type: chinese
+  comment: ! 'Covers: 行人. Cost: 1.4136273678258413e-2'
 - chinese: 这部小说以战前的伦敦为背景。
   english:
   - The novel is set in pre-war London.
   type: chinese
   comment: ! 'Covers: 背景. Cost: 2.1110407430863416e-2'
+- chinese: 他逃之夭夭，留下他妻子为他的赌债发愁。
+  english:
+  - He took a powder and left his wife to worry about his gambling debts.
+  type: chinese
+  comment: ! 'Covers: 发愁. Cost: 0.6451612903225806'
 - chinese: 你工作得愈久，你愈会疲倦，那必然是真的。
   english:
   - It follows that the longer you work, the more tired you will be.
@@ -5547,6 +5697,32 @@
   - The lion followed the trainer's commands.
   type: chinese
   comment: ! 'Covers: 指挥. Cost: 0.18248175182481752'
+- chinese: ! 'A:  李小姐,你大学毕业了吗?
+
+    B:  我刚毕业。我是从上海大学毕业的。我的专业是商务管理。
+
+    A:  好极了。你有什么打算?继续学习还是找工作?
+
+    B:  我不想继续学习。我打算在一家国际公司工作。
+
+    A:  这个打算不错。上海工作的机会很多。
+
+'
+  english:
+  - ! 'Miss Lǐ have you graduated from university?
+
+    I’ve just graduated. I graduated from Shanghai Unǐversity. My major is Business
+    administration.
+
+    Great. What are your plans? Do yǒu want to continue studying or find a job?
+
+    I don’t want to continue studying. My plan is to work in an international company.
+
+    That’s a pretty good plan. There are a lot of job opportunities in Shanghai.
+
+'
+  type: chinese
+  comment: ! 'Covers: 商务. Cost: 1.0'
 - chinese: 她往瓶子里插了些小花。
   english:
   - She arranged some flowerets in the vase.
@@ -5567,6 +5743,12 @@
   - Due to a lack of balance the ship turned over.
   type: chinese
   comment: ! 'Covers: 平衡. Cost: 2.294630564479119e-2'
+- chinese: 振动在一个平衡位置附近一个粒子或弹性固体迅速的直线运动
+  english:
+  - A rapid linear motion of a particle or of an elastic solid about an equilibrium
+    position.
+  type: chinese
+  comment: ! 'Covers: 振动. Cost: 0.684931506849315'
 - chinese: 总的说来, 这本书是讽刺性的.
   english:
   - Overall, the tone of the book is satirical/the book is satirical in tone.
@@ -5582,6 +5764,11 @@
   - Stimulation of the mind or emotions to a high level of feeling or activity.
   type: chinese
   comment: ! 'Covers: 刺激. Cost: 0.12106537530266344'
+- chinese: 我昨晚在城里寻欢作乐——怪不得今天早晨我头痛。
+  english:
+  - I spent last night on the town-no wonder I've got a headache this morning.
+  type: chinese
+  comment: ! 'Covers: 怪不得. Cost: 0.6993006993006994'
 - chinese: 他用塑料铲把盆里的混合料刮了出来.
   english:
   - He scraped the mixture out of the bowl with a plastic spatula.
@@ -5599,6 +5786,12 @@
     or patronage.
   type: chinese
   comment: ! 'Covers: 优惠. Cost: 8.264462809917356e-2'
+- chinese: 《第一滴血》这部影片只要广告做得对头，无论质量如何都是会吸引住观众的。
+  english:
+  - First Blood will attract the crowds, whatever its quality, provided that it gets
+    played up in the right way.
+  type: chinese
+  comment: ! 'Covers: 滴. Cost: 0.18315018315018314'
 - chinese: 受过高速工路建筑技术培训的工程师；施工了七年
   english:
   - An engineer trained in highway construction; worked in construction for seven
@@ -5610,6 +5803,11 @@
   - The manager has the duties and privileges appertaining to his high office.
   type: chinese
   comment: ! 'Covers: 具备. Cost: 0.15673981191222572'
+- chinese: 我弟弟用这部车时毫不爱惜，害得我花一大笔修理费。
+  english:
+  - My brother's careless treatment of the car has run me in for a large repair bill.
+  type: chinese
+  comment: ! 'Covers: 爱惜. Cost: 1.0'
 - chinese: 警察因麦克超速行驶而将他拦下，但警告了他一下就将他放了。
   english:
   - The police stopped Mike for speeding but let him off with a caution.
@@ -5620,6 +5818,17 @@
   - He was certified and sent to a mental hospital.
   type: chinese
   comment: ! 'Covers: 诊断. Cost: 0.11890606420927467'
+- chinese: 在翻地时应把肥料均匀地混入土壤中.
+  english:
+  - The manure should be well dug in.
+  type: chinese
+  comment: ! 'Covers: 均匀. Cost: 0.5154639175257733'
+- chinese: 普遍认为佛教公元六七年在东汉明帝的统治时先来中国。
+  english:
+  - It is generally believed that Buddhism first came to China in 67 A.D. during the
+    reign of Emperor Mingdi of the Eastern Han Dynasty.
+  type: chinese
+  comment: ! 'Covers: 公元. Cost: 1.0'
 - chinese: ! '越多奶酪越多洞。洞越多则奶酪越少。因此: 奶酪越多就越少奶酪。'
   english:
   - ! 'The more cheese, the more holes. The more holes, the less cheese. Thus: The
@@ -5631,28 +5840,18 @@
   - Fingernails grow nearly four times faster than toenails.
   type: chinese
   comment: ! 'Covers: 甲. Cost: 2.2349365278026105e-3'
-- chinese: 《第一滴血》这部影片只要广告做得对头，无论质量如何都是会吸引住观众的。
+- chinese: 学校训练和工作训练之间的差距确实是英国制度方面的一个最大失败。“一般地说，学校不想了解任何与工作中的人们有关的情况，”海斯先生说。
   english:
-  - First Blood will attract the crowds, whatever its quality, provided that it gets
-    played up in the right way.
+  - The gap between school training and work training is, indeed, one of the greatest
+    failures of the British system."In general schools don't want to know anything
+    to do with the world at work, " says Mr Hayes.
   type: chinese
-  comment: ! 'Covers: 滴. Cost: 0.18315018315018314'
+  comment: ! 'Covers: 差距. Cost: 1.1235955056179776'
 - chinese: 会议已由5月10日提前到5月3日召开.
   english:
   - The meeting has been brought forward from 10 May to 3 May.
   type: chinese
   comment: ! 'Covers: 召开. Cost: 5.0553561498407566e-3'
-- chinese: 那棵植物开着鲜艳的小紫花。
-  english:
-  - The plant has a brilliant purple floweret.
-  type: chinese
-  comment: ! 'Covers: 紫. Cost: 0.0'
-- chinese: 我有时候走路去上班，有时候骑自行车去上班，因为我家离单位很近。
-  english:
-  - Sometimes I walk to work, and sometimes I ride my bike, because I live very close
-    to work.
-  type: chinese
-  comment: ! 'Covers: 单位. Cost: 4.41306266548985e-2'
 - chinese: ! 'Lin: 你会说汉语吗?
 
     Dave: 会,可是我只会说一点儿。
@@ -5690,9 +5889,90 @@
 '
   type: chinese
   comment: ! 'Covers: 不如. Cost: 0.0'
+- chinese: 那棵植物开着鲜艳的小紫花。
+  english:
+  - The plant has a brilliant purple floweret.
+  type: chinese
+  comment: ! 'Covers: 紫. Cost: 0.0'
+- chinese: 我有时候走路去上班，有时候骑自行车去上班，因为我家离单位很近。
+  english:
+  - Sometimes I walk to work, and sometimes I ride my bike, because I live very close
+    to work.
+  type: chinese
+  comment: ! 'Covers: 单位. Cost: 4.41306266548985e-2'
+- chinese: 副官，人事行政参谋帮助指挥官处理行政事务的人事官员
+  english:
+  - A staff officer who helps a commanding officer with administrative affairs.
+  type: chinese
+  comment: ! 'Covers: 人事. Cost: 0.8'
 - chinese: 排练常在戏剧制作早期进行的短暂的排练，如关于某剧或某角色的排练
   english:
   - A brief rehearsal, as of a play or role, performed usually in an early stage of
     production.
   type: chinese
   comment: ! 'Covers: 制作. Cost: 0.13986013986013984'
+- chinese: 假牙师一种牙科技术师，其专长在于制造和安装假牙，他可以直接为公众服务，而不必通过有执照的牙科医生
+  english:
+  - A dental technician specializing in making and fitting dentures as a direct service
+    to the public rather than through a licensed dentist.
+  type: chinese
+  comment: ! 'Covers: 执照. Cost: 1.0'
+- chinese: 纸张盒，文具盒一种用于装文具和其它书写用具的盒子
+  english:
+  - A box used to hold stationery and other writing materials.
+  type: chinese
+  comment: ! 'Covers: 文具. Cost: 1.0'
+- chinese: 愚昧像个妖嫩奇异的水果，稍一触摸，就会失去其清新。
+  english:
+  - ! 'Ignorance is like a delicate exotic fruit: touch it, and the bloom is gone.'
+  type: chinese
+  comment: ! 'Covers: 嫩. Cost: 0.5780346820809249'
+- chinese: 虽受邀参加今晚一个精彩万分的派对，奈何明日不得不打起精神出席会议，只好推辞了。
+  english:
+  - I got an invitation to a party tonight that I know would be a lot of fun but I
+    have to be in my best form for tomorrow's meeting so I had to turn it down.
+  type: chinese
+  comment: ! 'Covers: 推辞. Cost: 1.25'
+- chinese: ! 'Dave: 这里的烤鸭真是好吃。
+
+    Lin: 你喜欢我很高兴。我们结账吧。
+
+    Dave: Lín, 我们 AA 制吧。
+
+    Lin: 不,说好了我请客。我会结帐。
+
+    Dave: 那谢谢你。下次我请你。
+
+    Lin: 谢谢。
+
+    Dave: 我们去享受北京的夜生活好吗?
+
+    Lin: 听起来不错。我们去俱乐部吧!
+
+'
+  english:
+  - ! 'Dave: The duck here is delicious indeed.
+
+    Lin: I am happy you liked it. Let''s pay.
+
+    Dave: Lín, I''ll pay for half of it.
+
+    Lin: No, I said it is my treat. I will pay.
+
+    Dave: Thanks a lot then. I will treat you next time.
+
+    Lin: Thank you.
+
+    Dave: Shall we go and enjoy the night life of Beijing?
+
+    Lin: That sounds good. Let''s go to a club.
+
+'
+  type: chinese
+  comment: ! 'Covers: 结账. Cost: 1.0'
+- chinese: 生意停顿了以后，许多公共浴堂都添置了桑拿浴室、健身器材等的新设备，希望能吸引多点人来光顾。
+  english:
+  - After business came to a halt, many bathhouses added new facilities, such as saunas
+    and exercise equipment, in an effort to attract customers.
+  type: chinese
+  comment: ! 'Covers: 健身. Cost: 3.3333333333333335'
